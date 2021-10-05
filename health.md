@@ -6,7 +6,7 @@
 0 / 3 2nd level spell slots used
 
 69 hp max 7 hit dice  
-28 hp now and 7 hit dice used
+69 hp now and 7 hit dice used
 
 0 levels of exhaustion
 
@@ -68,9 +68,12 @@ Rocinante and Unbridled Dave and Sunbeam
 Marcellus Wallace and Gromet
 
 # Wealth
-4141 gp + 0 sp + 66 cp - the friends we made along the way.
+3990 gp + 0 sp + 66 cp - the friends we made along the way.
 250gp (0 remaining) bond from Harbeck.
 740sp/annum
+
+1x potions of healing 2d4+2
+80rations
 
 4x farm-hands at 2sp daily. Hired Highsun 10. Also hired Durbar for lessons goblin language lessons elient 3rd for 5sp a session. 250 sessions needed for fluency.   
 Three human men: Angelbert, Allen and Vulcer. One human woman: Evelyn. Allen is the new foreman.   
