@@ -1296,47 +1296,6 @@ accepted a Barony from his uncle.
 
 ## 14-24th of Elient
 Training in town stealth.
-<hr>
-
-## 25th Elient
-We discussed a plan with Harbeck to hire 20 laborers to mine, guard and construct in camp crystal lake. It will cost 2720 out of the common fund.
-
-Maslin accepting the title of Baron from his uncle and conveyed his intent to create a safe haven for magic users across the St. Reese.
-
-We begin our journey to Crystal Lake.
-
-## 25th of Elient - 9th of Marpenoth
-Traveling
-
-I spotted a small herd of Mammoths heading towards us. Maslin blew them away from us while Tool led the party away from them.
-
-## 9th of Marpenoth
-The camp has started to return to nature but there remains the skeleton of the structure. We left Patsy in charge and camped a night here. Kristif brought Crunchy to help detect metals.
-
-## 10th of Marpenoth -
-Departed for Tumen Ord on directions from our captives following the St. Reese.
-
-Tool encountered a trio of bears and we killed two but we intimidated one away from the group. We crossed the St. Reese with the help of a Waterwalk.
-
-After breaking camp one day, we were set up by a group of humans. Mostly humans riding horses there is also a hobgoblin and a few halflings riding war-dogs. The riders do not resemble Tumen Ord members. They have horsehair tassels. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
