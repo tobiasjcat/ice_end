@@ -1318,7 +1318,19 @@ Departed for Tumen Ord on directions from our captives following the St. Reese.
 
 Tool encountered a trio of bears and we killed two but we intimidated one away from the group. We crossed the St. Reese with the help of a Waterwalk.
 
-After breaking camp one day, we were set up by a group of humans. Mostly humans riding horses there is also a hobgoblin and a few halflings riding war-dogs. The riders do not resemble Tumen Ord members. They have horsehair tassels. 
+After breaking camp one day, we were set up by a group of humans. Mostly humans riding horses there is also a hobgoblin and a few halflings riding war-dogs. The riders do not resemble Tumen Ord members. They have horsehair tassels.
+<hr>
+They are the Kara-Jhinzkha. One rider is their leader. When they reveal themselves to be non-threating Maslin and Marlowe reveal themselves and greet peacefully. The leader is named Barta Khonghar and we are on their lands. They advise us on not heading into Near-Yeet territory. Barta says the Near-Yeet are oath-breakers and not to be trusted.
+
+Tumen Ord are a breakaway tribe from the Kara-Jhinzkha. The riders are in the process of hunting monsters and Maslin offers to assist with the hunt. Their armor has a more a lived in look.
+
+They lead us rapidly without stopping and eat in the saddle. We rode for longer than we expected. They tell us we are hunting trolls.
+
+## 11th of Marpenoth
+The riders broke camp real fast, barely giving us enough time to set the Alchemy Jug for acid. Eventually they led us the entrance of the cave the trolls are hiding in.
+
+At the first troll, Derwood landed 3 arrows, two critical and combined with the arrows did a record 68 damage.
+
 
 
 

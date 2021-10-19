@@ -125,18 +125,20 @@ A mining camp we built near a magicite mine to the west-north-west of ice-end.
 An action to uncork. Can pour 2 gallons / minute. Once uncorked, cannot change
 liquid or pour more until next dawn. Effectively can be used once a day
 
-| Liquid 		| Volume   	| Price (sp) at Ice-end 	|
-|:-------------:|:---------:|:-------------------------:|
-| Acid 			| 8 oz. 	| 960						|
-| Basic Poison 	| .5 oz.	| 150 						|
-| Beer 			| 4 gallons	| 8.52  					|
-| Honey 		| 1 gallon	| 96	 					|
-| Mayo 			| 2 gallons	| 12 (est.)					|
-| Oil 			| 1 quart	| 12 	 					|
-| Vinegar 		| 2 gallons	| 10.56  					|
-| Water, fresh 	| 8 gallons	| 0							|
-| Water, salt 	| 12 gallons| 0							|
-| Wine 			| 1 gallon	| 28.73 					|
+| Liquid 		    | Volume   	| Price (sp) at Ice-end 	|
+|:-------------:|:---------:|:-----------------------:|
+| Acid 			    | 8 oz.* 	  | 960						          |
+| Basic Poison 	| .5 oz.	  | 150 						        |
+| Beer 			    | 4 gallons	| 8.52  					        |
+| Honey 		    | 1 gallon	| 96	 					          |
+| Mayo 			    | 2 gallons	| 12 (est.)					      |
+| Oil 			    | 1 quart	  | 12 	 					          |
+| Vinegar 		  | 2 gallons	| 10.56  					        |
+| Water, fresh 	| 8 gallons	| 0							          |
+| Water, salt 	| 12 gallons| 0							          |
+| Wine 			    | 1 gallon	| 28.73 					        |
+
+* An acid vial requires 4 oz of liquid
 
 ### Shopping list
 - [ ] 1200lb 50' hempen rope (54gp) (not currently available)
