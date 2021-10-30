@@ -2,11 +2,11 @@
 
 ## 16 AC!
 
-2 / 4 1st level spell slots used.  
-1 / 3 2nd level spell slots used
+0 / 4 1st level spell slots used.  
+0 / 3 2nd level spell slots used
 
 69 hp max 7 hit dice  
-54 hp now and 7 hit dice used
+69 hp now and 0 hit dice used
 
 0 levels of exhaustion
 
@@ -36,8 +36,8 @@ Brewers supplies 21st of Uktar
 Silvered arrows used this combat: 5
 
 24x silvered arrows
-51x +1 arrows
-11x +1 Rose Thorn Arrows
+46x +1 arrows
+11x +1 Rose Thorn Arrows51
 14x Arrows of flame     [[1d6]] fire damage
 """
 Rose Thorn Arrow: On hit extra 1d4 piercing from thorns and target must make a Strength or Dexterity save equal to the wielder’s spellcasting DC or be ensared for 1d4 rounds (can attempt to Str / dex to get free each round), 1d4 piercing damage each round the ensnared/restrained creature moves.

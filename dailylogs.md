@@ -1330,10 +1330,24 @@ They lead us rapidly without stopping and eat in the saddle. We rode for longer 
 The riders broke camp real fast, barely giving us enough time to set the Alchemy Jug for acid. Eventually they led us the entrance of the cave the trolls are hiding in.
 
 At the first troll, Derwood landed 3 arrows, two critical and combined with the arrows did a record 68 damage.
+<hr>
+After we slayed the trolls, we slipped out of the cave when hobgoblins and goblins showed up and started smoking out the cave. We camped out on the hill until dawn when we ambushed the hobgoblins.
 
+The Kara Jhinzkha let us know these goblins come from Var-Galaria from the western Etruria. Var-galaria is a Imperial Union. Hob-goblin empire quite far from Lothal but considered existential threat to continental nations. Var-galaria is technologically advanced, their armies are disciplined and organized.
+The Kara-Jhinzkha tell us there a lot of more hob-goblins approaching from the western coasts. They assimilate native goblinoids. It's possible the goblins were starting negotiations with trolls.   
+Barta says the western shores are more than 10-30 days ride to the western coast and that's including circumnavigating the great Lake Kharnar.
+The Kara-Jhinzkha clans are meeting at S’uubaa’neetai in the Kuskwharuum Basin.
+This party is assigned to slay monsters that descend from the snowing mountain pass.
+Tribes Meriket, Kipchak, Ulaanbator, Tseng-Ta, Kyrghaz.
+The sage is Tjin Yesun.
+Monters and demons smashed through Tumen-ord and forced the Kara-Jhinzkha forced these people to be migratory. Chief Malkus Yellow-arrow wants us to be mobile but push back north where they had been driven out.
+Firefist denounced the traditions of Kara-Jhinzkha and split off.
 
+## 14 of Marpenoth
+Arrival at S'uubaa'neetai, a vast collection of yurts, tents and huts. Leather tents colors denote tribes. There are many pastures and penned mammals. We estimate five thousand people reside here.
 
-
+We will meet Malkus Yellow-arrow tomorrow.
+<hr>
 
 
 
