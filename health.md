@@ -2,17 +2,17 @@
 
 ## 16 AC!
 
-1 / 4 1st level spell slots used.
+1 / 4 1st level spell slots used  
 0 / 3 2nd level spell slots used
 
-74 hp max 7 hit dice
+74 hp max 7 hit dice  
 74 hp now and 0 hit dice used
 
 0 levels of exhaustion
 
 0 death saves failed, 0 succeeded
 
-Longbow +6 to attack 1d8 + 4 damage.
+Longbow +7 to attack 1d8 + 5 damage.
 
 Blind fighting:
 - Blindsight 10ft
@@ -25,7 +25,7 @@ Blind fighting:
 - The recipe for an alchemy jug as well.
 
 Want to have:
-- [ ] more manacles
+- [x] more manacles
 - [ ] masquerade tattoo (from tasha's) (attunement)
 - [ ] illuminator's tattoo (from tasha's) (attunement)
 - [ ] natures mantle (from tasha's) (attunement)
@@ -33,13 +33,12 @@ Want to have:
 
 Brewers supplies 21st of Uktar
 
-Silvered arrows used this combat: 5
 
-24x silvered arrows
-46x +1 arrows
-11x +1 Rose Thorn Arrows51
-14x Arrows of flame     [[1d6]] fire damage
-"""
+- 24x silvered arrows
+- 46x +1 arrows
+- 14x Arrows of flame     [[1d6]] fire damage
+- 11x +1 Rose Thorn Arrows
+-- """
 Rose Thorn Arrow: On hit extra 1d4 piercing from thorns and target must make a Strength or Dexterity save equal to the wielder’s spellcasting DC or be ensared for 1d4 rounds (can attempt to Str / dex to get free each round), 1d4 piercing damage each round the ensnared/restrained creature moves.
 """
 
@@ -48,7 +47,6 @@ Rose Thorn Arrow: On hit extra 1d4 piercing from thorns and target must make a S
 - 1 silver longsword
 - 2 daggers
 - 1 sheild
-
 - Spyglass
 - Astolabe +1 Nav
 - 10ft Chain
@@ -72,8 +70,6 @@ Marcellus Wallace and Gromet
 250gp (0 remaining) bond from Harbeck.
 740sp/annum
 
-1x potions of healing 2d4+2
-80rations
 
 4x farm-hands at 2sp daily. Hired Highsun 10. Also hired Durbar for lessons goblin language lessons elient 3rd for 5sp a session. 250 sessions needed for fluency.   
 Three human men: Angelbert, Allen and Vulcer. One human woman: Evelyn. Allen is the new foreman.   
@@ -145,14 +141,14 @@ proficiency bonus to learning orcish language
 - Pass Without Trace (concentration)
 
 # Misc  
-- Level 8
-- 40,440 / 48,000 xp for 9 (last updated Sep 18, 2021)
+- Level 9
+- 48,400 / 48,000 xp for 10 (last updated November 7, 2021)
 9sp / day for goblin lessons (Not active)
 
 # Micro macros:
 ## Rapier
-rapier w/adv [[3d20kh1+7]] to hit
-rapier [[1d20+7]]
+rapier w/adv [[3d20kh1+8]] to hit
+rapier [[1d20+8]]
 rapier damage [[1d8+4]]
 critical rapier damage [[2d8+4]]
 
