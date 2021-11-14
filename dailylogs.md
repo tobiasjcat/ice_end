@@ -616,7 +616,7 @@ Kristif drilled the guards. Maslin worked with Janreth on translating some of
 the strange elvish texts from the library in the woods. Tool prospects .
 
 ## 30th of Nightal  
-Drusilla has returned! She had checked in with the cheif. It's not uncommon for attacks
+Drusilla has returned! She had checked in with the chief. It's not uncommon for attacks
 on the equinox due to the long nights but they had not encountered night-elves.
 Drusilla got an odd feeling about Algana. Some of the people maybe don't blink.
 
@@ -635,7 +635,7 @@ daughter is in the care of Apollo.
 ## 5th of Hammer
 We arrived at Algana. Ever the guards have noticed the coldness of the citizenry.  
 Tool quickly forgets about Janreth as the two wrestle. Janreth will be devastated.  
-Cheif Jotah thanks us for the metal gifts and Maslin inquired about the state of  
+Chief Jotah thanks us for the metal gifts and Maslin inquired about the state of  
 the village.     
 Jotal says that some of the older folks enter spells of daze. They stare off into
 the distance and smell of old eggs.  
@@ -1061,7 +1061,7 @@ entrance to the courtroom.
 As well as another message above another door
 "Herein lies the mortal shell of Saint Gevurah, ascended in Everservice to the Unconquered Sun."
 We looted a strange cloak from a storeroom near the steam room and prepared ourselves
-to fight the dancing demons. Fortunetly they heard reason and gave up their amulet
+to fight the dancing demons. Fortunately they heard reason and gave up their amulet
 without a fight. Lucky that we didn't drink that potion of power.
 Elisha led our group the main alter of the Saint, to rebind him. After some woo-woo
 chanting, the saint arrives out of thin air. The Saint mentioned someone named
@@ -1348,17 +1348,66 @@ Arrival at S'uubaa'neetai, a vast collection of yurts, tents and huts. Leather t
 
 We will meet Malkus Yellow-arrow tomorrow.
 <hr>
+There are all manner of animals. Most familial yurts have their own pens for animals. This area is also good for protecting the river crossing. Barta and his band the outriders keep the demons away from the river by any means. In the spring they move to the south west to feed better. The town is a mix of races but aren't any dwarves or elves.
+Barta and the outriders were tasked with this by Chief Yellow-arrow.
+The clans revere the elderly where they lead the family units.
+
+## 15th of Marpenoth
+In the morning Barta tours us around the camp before taking us to the Amber throne
+
+The tribes of the clan:
+
+### Maraket
+Maraket camp sold tool the camel. Their camp is outside the rest because the camels scare the other horses. The camels are prized for their long distance abilities.
+The fighters fight with crossbows and melee as well as a camel based artillery.
+Their leader is Torgan the human and is friendly. The clan is very loyal.
+
+### Kipchak
+Decorate their tents in indigo and blues with broken arrow symbology. Kipchak traditionally lived north of the st. reese. Their leader is Dogtar, a human male, he is younger and quick to anger. Could be sympathetic to the near-yeet.
+Dogtar will occasionally lead attacks against neutral tribes. He is always pushing to recapture the lands to the north.   
+
+### Ulaanbator
+Dress and display in earth-tones. They are from lake Kharnar area. The largest tribe in the clan. They propbably would have flourished in Neiryeet but the Silugukhan half-human half hobgoblin chief is fanatically loyal to Yellow-arrow. Silugukhan is Barta's grandson.
+They are good with plants and animals.
+
+### Tseng-Ta
+Head of a stag symbology. Especially violent history. Decades of fierce fighting with the orcs of star-fjord to the south.
+Only recently arrived here summer of last year.
+Mahamu is their leader with a scarlet veil. They practice secret-ish blood rituals before battle.  
+Mahamu is quite loyal and doesn't argue very much with yellow-arrow.
+
+### Kyrghaz
+Skilled horse archers. Most famous trait is reindeer lancers. Their symbol is the silver mountain that is on our newly purchased armor.  
+Solongo the human male is their leader and goes way back with yellow-arrow. Solongo has been in the clan the longest.   
 
 
 
+Chief Malkus Yellow-arrow
+5 and 1/2 feet tall. Dressed in furs with a red pointed hat. Half-halfling and half-orc. She has bowed legs likely from riding. She is seated on the amber throne, an actual single piece of amber.
+There is an old looking hairless half-orc with dark green skin. Tjinyesun.
+There are columns that support the center of the yurt of gilded reeds along with steel and iron armor. The colors are primary yellow, orange and red.
+Tool offers Al Capony as a gift to Yellow-arrows.
+Malkus offers us a feast of mostly meat and dairy. Maslin is seated with the other chiefs. Koomis the fermeted milk is served.
+We discussed Aleuwyn and Malkus lets us know that his mosters mostly arrive during the dead of winter. Re-animated dead men and monster. Also great Blue Wyrms.   
+
+Malkus doesn't fight in the wastes. Their avoid conflict when possible including luring the beasts away from the river. She considers standing and fighting as a last resort.
+Tumen Ord was a great fortress.  
+Tjinyesun, the half-orc sage. Ctemoria was a city.
+
+The split between the KJ and Firefist happened after a close election which Yellow-arrow won. Firefist wanted to re-take their old fortress and re-settle the lands. Firefist is a murdering heretic according to Malkus.  
+
+Tjinyesun doesn't know what lies in the wastes. Rumor has it, there is a stone fortress in the sky. This aligns with vision of Elisha's.
+
+Malkus honors their ancestors and Sumigone the hunter by not settling down. There cannot be peace between the two clans while both Malkus and Firefist live. Malkus considers trading with Firefist an act of war.   
+
+At the conclusion of the dinner, Malkus gives each of us a gold-plated tables showing a wolf and a moose charing together. These will indicate our friendship with Malkus.
+
+Tjinyesun advises against going to the wastes because it is really really cold.   
 
 
-
-
-
-
-
-
+## 16th - 22nd of Marpenoth
+After a day of rest, we left for Tumen Ord. A few days later we arrived at the approaches of Tumen Ord. We followed directions from Chimbai.
+The fortress is formidable and at the end of a narrow path up a mountain side. There are turrets with catapults and everything is covered in a dark red paint. A large keep dominates the structure and is topped with a glowing rippling orb. 
 
 
 

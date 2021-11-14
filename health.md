@@ -1,9 +1,10 @@
 # Fighting stats
 
-## 16 AC!
+## 17 AC!
 
 1 / 4 1st level spell slots used  
 0 / 3 2nd level spell slots used
+0 / 2 3rd level spell slots  used
 
 74 hp max 7 hit dice  
 74 hp now and 0 hit dice used
@@ -41,7 +42,15 @@ Brewers supplies 21st of Uktar
 -- """
 Rose Thorn Arrow: On hit extra 1d4 piercing from thorns and target must make a Strength or Dexterity save equal to the wielder’s spellcasting DC or be ensared for 1d4 rounds (can attempt to Str / dex to get free each round), 1d4 piercing damage each round the ensnared/restrained creature moves.
 """
-
+- Studded Leather +1 armor (light armor, 13 + dex mod)
+- 20x Whistling Arrows
+- Boar Spear
+```
+Damage: 1d6 piercing
+Properties: Versatile (1d8), Special, Winged
+This thick, heavy spear is better wielded in two hands than one. When wielded in both hands, a boar spear gains the reach and wind-up properties in addition to the increased damage it gains from the versatile property.
+```
+- 20x +2 arrows
 - 1 Longbow +1 (magically)
 - 1 rapier
 - 1 silver longsword
@@ -127,18 +136,19 @@ proficiency bonus to learning orcish language
 4 weeks of training in stealth from Marlowe
 
 
-
 # Spells  
 ## First Level
-- Longstrider (No)
 - Goodberry
 - Zephyr Strike (XgtE) (concentration)
 - Disguise Self (concentration)
 
 ## Second Level
-- Healing Spirit (XgtE) (concentration) (no)
 - Enhance Ability (concentration)
 - Pass Without Trace (concentration)
+
+## Third Level
+- Plant growth
+
 
 # Misc  
 - Level 9
