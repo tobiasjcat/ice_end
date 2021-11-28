@@ -2,12 +2,12 @@
 
 ## 17 AC!
 
-1 / 4 1st level spell slots used  
-0 / 3 2nd level spell slots used
+4 / 4 1st level spell slots used  
+1 / 3 2nd level spell slots used
 0 / 2 3rd level spell slots  used
 
 74 hp max 7 hit dice  
-74 hp now and 0 hit dice used
+23 temp hp now and 0 hit dice used
 
 0 levels of exhaustion
 

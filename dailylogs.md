@@ -1383,7 +1383,7 @@ Solongo the human male is their leader and goes way back with yellow-arrow. Solo
 
 
 Chief Malkus Yellow-arrow
-5 and 1/2 feet tall. Dressed in furs with a red pointed hat. Half-halfling and half-orc. She has bowed legs likely from riding. She is seated on the amber throne, an actual single piece of amber.
+5 and 0/2 feet tall. Dressed in furs with a red pointed hat. Half-halfling and half-orc. She has bowed legs likely from riding. She is seated on the amber throne, an actual single piece of amber.
 There is an old looking hairless half-orc with dark green skin. Tjinyesun.
 There are columns that support the center of the yurt of gilded reeds along with steel and iron armor. The colors are primary yellow, orange and red.
 Tool offers Al Capony as a gift to Yellow-arrows.
@@ -1407,7 +1407,22 @@ Tjinyesun advises against going to the wastes because it is really really cold.
 
 ## 16th - 22nd of Marpenoth
 After a day of rest, we left for Tumen Ord. A few days later we arrived at the approaches of Tumen Ord. We followed directions from Chimbai.
-The fortress is formidable and at the end of a narrow path up a mountain side. There are turrets with catapults and everything is covered in a dark red paint. A large keep dominates the structure and is topped with a glowing rippling orb. 
+
+## 22nd of Marpenoth
+The fortress is formidable and at the end of a narrow path up a mountain side. There are turrets with catapults and everything is covered in a dark red paint. A large keep dominates the structure and is topped with a glowing rippling orb.
+<hr>
+The entrance of the fortress has two 30' turrets mounted with catapults, near the entrance. Blood is painted down the sides of the outer walls. A few groups of villages are waiting in line outside the gates. A few bodies are impaled on pikes on the bridge. The bodies are orcs but two of the human bodies are Chimbai and Okin.
+The guards are checking the villagers papers before entry. Villagers without papers are arrested. We pleaded diplomatic privilege for entry.
+Upon entry they confiscate all of our magical items and weapons and escort us to the palace. We spotted a few priests wearing large white robes and necklaces with orbs. The soldiers are referred to as keshigs.    
+The palace is the 150' tall Crimson Palace of the Eternal Sun.
+The orb isn't magical but just carved intricately. The guards symbol is a fist in a sun. The main hall is very impressive. The city here seems a little overcrowded and hovels hug the walls. Var-galarian architecture.
+There are four large statues in a fountain with constantly flowing alcohol liquids.
+
+We are kept waiting for a few hours before Skied Firefist Neiryeet arrives. Several slaves haul in a throne made of bones, stone and iron.  
+Firefist is a tall green-skinned half-orc with tinges of red and orange near where his veins. Dark red hair and eyes. Dressed in a fur half-tunic. Total beef-castle. He wears an antler crown.  
+The Tumen-orc is not impressed with us. He wants us to fight at a festival honoring gock-teska tomorrow. We will be fighting five of Firefists champion at the circle of blood. We will be staying overnight at the Gilded Gauntlet.   
+The inn which is near the palace, is quiet but very nicely appointed. We are allocated a fine suite.
+The fight turned out to be a lively game of capture the flag. After we starting winning the fight, Firefist entered the field and attacked us. 
 
 
 
