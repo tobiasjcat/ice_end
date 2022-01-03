@@ -1422,10 +1422,15 @@ We are kept waiting for a few hours before Skied Firefist Neiryeet arrives. Seve
 Firefist is a tall green-skinned half-orc with tinges of red and orange near where his veins. Dark red hair and eyes. Dressed in a fur half-tunic. Total beef-castle. He wears an antler crown.  
 The Tumen-orc is not impressed with us. He wants us to fight at a festival honoring gock-teska tomorrow. We will be fighting five of Firefists champion at the circle of blood. We will be staying overnight at the Gilded Gauntlet.   
 The inn which is near the palace, is quiet but very nicely appointed. We are allocated a fine suite.
-The fight turned out to be a lively game of capture the flag. After we starting winning the fight, Firefist entered the field and attacked us. 
-
-
-
+The fight turned out to be a lively game of capture the flag. After we starting winning the fight, Firefist entered the field and attacked us.
+<hr>
+He invited us to a party and we were sent back to our rooms to pack our bags. Instead of a group of tribes, there are just the Neiryet and a family the Shen.
+We went the well-kempt Choi Ba-ataal Market. The market even includes foreign traders from other clans. There are a few orcs from star-fjord. We also checked out the slaves for sale. They also are willing to buy slaves.
+Another vendor is selling The flying mantas for 250gp each. Kristif and I purchased one each. I learned that the tugriks can be converted for 5 marks for 1 gold and we converted all of our paper currency into gold.  
+We also visisted the Crook and Spear, a bar in a working class section of town. The proprietor is a human man named Ajir. After buying a round of drinks for the house, a server offered "private services" to Tool.
+Eventually we made our way to the party. Right as we were about to let our guard down and start to enjoy ourselves, Marlowe gathered us around and told us Margareta commanded her to kill a priestess, Oghul Qatun and steal a fancy scepter. This solar-priestess convinced Firefist to move to this place. The scepter is the Scepter of the Eternal Sun.
+Remember that Marlowe and Maslin have my Eagle's Splendor.
+<hr>
 
 
 

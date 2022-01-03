@@ -350,22 +350,30 @@
 
 
 
-<!--  # Name (Player)
- Race:  
- Occupation:  
+ # Ogtish  
+ Race: Orc  
+ Occupation: Manager of the Guilded Gauntlet  
  Languages:  
  Age:  
  Notes:  
- -->
 
 
-<!--  # Name (Player)
- Race:  
- Occupation:  
- Languages:  
- Age:  
- Notes:  
- -->
+
+ <!--  # Name
+  Race:  
+  Occupation:  
+  Languages:  
+  Age:  
+  Notes:  
+  -->
+
+  <!--  # Name
+   Race:  
+   Occupation:  
+   Languages:  
+   Age:  
+   Notes:  
+   -->
 
  <!--
  # Name (Player)

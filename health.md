@@ -3,8 +3,8 @@
 ## 17 AC!
 
 4 / 4 1st level spell slots used  
-1 / 3 2nd level spell slots used
-0 / 2 3rd level spell slots  used
+2 / 3 2nd level spell slots used
+1 / 2 3rd level spell slots  used
 
 74 hp max 7 hit dice  
 23 temp hp now and 0 hit dice used
@@ -60,6 +60,7 @@ This thick, heavy spear is better wielded in two hands than one. When wielded in
 - Astolabe +1 Nav
 - 10ft Chain
 - Grappling hook
+- 1 storm ray
 
 - 0 potion of health
 
@@ -75,8 +76,8 @@ Rocinante and Unbridled Dave and Sunbeam
 Marcellus Wallace and Gromet
 
 # Wealth
-3990 gp + 0 sp + 66 cp - the friends we made along the way.
-250gp (0 remaining) bond from Harbeck.
+4105 gp + 7 sp + 66 cp - the friends we made along the way.
+250gp (0gp remaining) bond from Harbeck.
 740sp/annum
 
 
