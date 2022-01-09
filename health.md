@@ -2,12 +2,14 @@
 
 ## 17 AC!
 
-4 / 4 1st level spell slots used  
-2 / 3 2nd level spell slots used
-1 / 2 3rd level spell slots  used
+1 / 4 1st level spell slots used  
+0 / 3 2nd level spell slots used
+0 / 2 3rd level spell slots  used
 
-74 hp max 7 hit dice  
-23 temp hp now and 0 hit dice used
+74 hp max 9 hit dice  
+33 temp hp now and 7 hit dice used
+
+ray bradbury has 27 hitpoints
 
 0 levels of exhaustion
 
@@ -35,9 +37,9 @@ Want to have:
 Brewers supplies 21st of Uktar
 
 
-- 24x silvered arrows
+- 23x silvered arrows
 - 46x +1 arrows
-- 14x Arrows of flame     [[1d6]] fire damage
+- 13x Arrows of flame     [[1d6]] fire damage
 - 11x +1 Rose Thorn Arrows
 -- """
 Rose Thorn Arrow: On hit extra 1d4 piercing from thorns and target must make a Strength or Dexterity save equal to the wielder’s spellcasting DC or be ensared for 1d4 rounds (can attempt to Str / dex to get free each round), 1d4 piercing damage each round the ensnared/restrained creature moves.
@@ -60,7 +62,7 @@ This thick, heavy spear is better wielded in two hands than one. When wielded in
 - Astolabe +1 Nav
 - 10ft Chain
 - Grappling hook
-- 1 storm ray
+- 1 storm ray, Ray Bradbury, fly speed 60ft
 
 - 0 potion of health
 
@@ -228,10 +230,6 @@ Handaxe [[1d6]] fire damage [[1d6]] slashing damage
 
 Potion of Greater Healing [[4d4 + 4]]
 
-Shopping list:
-2x potion of healing for 102gp
-4x manacles for 48gp
-1x ladder for 12sp
 
 
 

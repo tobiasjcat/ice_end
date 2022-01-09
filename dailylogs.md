@@ -1428,12 +1428,23 @@ He invited us to a party and we were sent back to our rooms to pack our bags. In
 We went the well-kempt Choi Ba-ataal Market. The market even includes foreign traders from other clans. There are a few orcs from star-fjord. We also checked out the slaves for sale. They also are willing to buy slaves.
 Another vendor is selling The flying mantas for 250gp each. Kristif and I purchased one each. I learned that the tugriks can be converted for 5 marks for 1 gold and we converted all of our paper currency into gold.  
 We also visisted the Crook and Spear, a bar in a working class section of town. The proprietor is a human man named Ajir. After buying a round of drinks for the house, a server offered "private services" to Tool.
-Eventually we made our way to the party. Right as we were about to let our guard down and start to enjoy ourselves, Marlowe gathered us around and told us Margareta commanded her to kill a priestess, Oghul Qatun and steal a fancy scepter. This solar-priestess convinced Firefist to move to this place. The scepter is the Scepter of the Eternal Sun.
+Eventually we made our way to the party. Right as we were about to let our guard down and start to enjoy ourselves, Marlowe gathered us around and told us Margareta commanded her to kill a solar priestess, Oghul Qatun and steal a fancy scepter. This solar-priestess convinced Firefist to move to this place. The scepter is the Scepter of the Eternal Sun.
 Remember that Marlowe and Maslin have my Eagle's Splendor.
 <hr>
+We took our rest and Kristif sent a message to Margareta to clarify her command.
 
+## 23rd of Marpenoth
+We were gently heard-ed out the town. We decided to make a stealth camp out of sight with the intent of sneaking back inside.
+That night we executed our plan, we cast all of our concealment spells and Maslin gave us the ability to fly. Marlowe and I floated in the palace and down the stairs toward the vault. The vault door has a blindfolded Solar holding a topaz orb carved onto it. Marlowe gave the door the name and a trinket and it opened. After a few puzzles we retrieved the scepter and slipped out unnoticed. Maslin's fly spell had worn off by the time we needed to leave, so ex-fil was more challenging than we expected.
 
+## 24th of Marpenoth
+After meeting back up at our discrete camp, we began the trek back to Camp Crystal lake. I used a scroll of identify on the scepter.
 
+## 24th of Marpenoth to of 3rd Uktar
+Traveling back to camp. We fought a flying wendigo and its summons. My storm ray, Ray Bradbury, had got hurt a little. They haven't seen us since the 10th of Marpenoth.
+
+## 4rd of Uktar to 20th of Uktar 
+We traveled back to ice-end. I fell off Ray Bradbury. The whole route was fraught with calamities.
 
 
 
