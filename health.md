@@ -2,12 +2,12 @@
 
 ## 17 AC!
 
-1 / 4 1st level spell slots used  
+3 / 4 1st level spell slots used  
 0 / 3 2nd level spell slots used
 0 / 2 3rd level spell slots  used
 
 74 hp max 9 hit dice  
-33 temp hp now and 7 hit dice used
+74 temp hp now and 0 hit dice used
 
 ray bradbury has 27 hitpoints
 
@@ -37,9 +37,9 @@ Want to have:
 Brewers supplies 21st of Uktar
 
 
-- 23x silvered arrows
+- 20x silvered arrows
 - 46x +1 arrows
-- 13x Arrows of flame     [[1d6]] fire damage
+- 7x Arrows of flame     [[1d6]] fire damage
 - 11x +1 Rose Thorn Arrows
 -- """
 Rose Thorn Arrow: On hit extra 1d4 piercing from thorns and target must make a Strength or Dexterity save equal to the wielder’s spellcasting DC or be ensared for 1d4 rounds (can attempt to Str / dex to get free each round), 1d4 piercing damage each round the ensnared/restrained creature moves.
@@ -78,10 +78,9 @@ Rocinante and Unbridled Dave and Sunbeam
 Marcellus Wallace and Gromet
 
 # Wealth
-4105 gp + 7 sp + 66 cp - the friends we made along the way.
+5729 gp + 7 sp + 66 cp - the friends we made along the way.
 250gp (0gp remaining) bond from Harbeck.
 740sp/annum
-
 
 4x farm-hands at 2sp daily. Hired Highsun 10. Also hired Durbar for lessons goblin language lessons elient 3rd for 5sp a session. 250 sessions needed for fluency.   
 Three human men: Angelbert, Allen and Vulcer. One human woman: Evelyn. Allen is the new foreman.   
@@ -136,8 +135,8 @@ We each have one large peridot.
 
 4/4 workweeks of novice goblin language.
 proficiency bonus to learning orcish language
-4 weeks of training in stealth from Marlowe
-
+7/10 weeks of training in stealth to novice level from Marlowe
+7/25 weeks of training in stealth to proficient
 
 # Spells  
 ## First Level
@@ -155,7 +154,7 @@ proficiency bonus to learning orcish language
 
 # Misc  
 - Level 9
-- 48,400 / 64,000 xp for 10 (last updated November 7, 2021)
+- 50,660 / 64,000 xp for 10 (last updated November 7, 2021)
 9sp / day for goblin lessons (Not active)
 
 # Micro macros:

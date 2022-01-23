@@ -1443,10 +1443,24 @@ After meeting back up at our discrete camp, we began the trek back to Camp Cryst
 ## 24th of Marpenoth to of 3rd Uktar
 Traveling back to camp. We fought a flying wendigo and its summons. My storm ray, Ray Bradbury, had got hurt a little. They haven't seen us since the 10th of Marpenoth.
 
-## 4rd of Uktar to 20th of Uktar 
+## 4rd of Uktar to 20th of Uktar
 We traveled back to ice-end. I fell off Ray Bradbury. The whole route was fraught with calamities.
+<hr>
 
+## 20th of Uktar
+At town we sold all of the metal and most of the magicite from camp crystal lake.
+We met with Harbeck. For once, he's glad to see us because he's nervous about the solstice on the 20th of Nightal. The Rookrustle Kenku have gone missing.
 
+## 20th of Uktar - 20th of Nigthal
+Marlowe and I spent these weeks training in nature and stealth.
+
+## 20th of Nightal, the winter solstice
+There will be almost no daylight. The winds are pretty strong this morning. Rikki, Preston and Margareta gave me their consolation before heading to shelter.
+As the sun falls, an enormous Aurora spread out over the town. A projected larger image of Aleuwyn appears above the town and tells us he's sorry we have chosen to die.
+We faced off against a crowd of coldlight walkers, shadows and ice-mephits accompanied by giant angry snowball with too many eyes. We slayed them and the aurora dimmed for a bit.
+The next wave arrived with a rumbling through the ground.
+<hr>
+- Check if Aleuwyn is still levitating
 
 
 
