@@ -1461,6 +1461,30 @@ We faced off against a crowd of coldlight walkers, shadows and ice-mephits accom
 The next wave arrived with a rumbling through the ground.
 <hr>
 - Check if Aleuwyn is still levitating
+Aleuwyn cast time-stop.
+Marlowe slew Aleuwyn with a sustained sunbeam. His spirit retreated to the northwest? From his body comes a shade of a woman. She is dressed in a long moss colored robe and a silver circlet. She is the mother of Aleuwyn and tells us that we only killed a clone of himself. He will attack again next solstice. She is Aleuwyn's memory of the perception of his mother Queen Creiddylad. Aleuwyn is the last Court Eternal of Gwynnyfryd and an Eladrin. Eladrin are similar to elves but older.
+He lives in their last bastion, Methyr Tynylhoff in the northern wasteland. He is weakest at the summer solstice. They had been Eladrin of the Summer a long a time ago.
+Aleuwyn failed to cast Soul-bomb to protect the Eladrin.
+
+Later we were called into Harbeck's office with Lady Cliffsend. She paid us   
+- 19,000gp
+- 1,900pp
+- 9x 500gp gems (1x Alexandrite, 2x Aquamarine, 4x Black Pearl, 1x Blue Spinel, 1x Peridot)
+- Absorption Ioun Stone
+Whistia also gave us each a nice handkerchief.
+
+## 20th of Nightal - 30th of Nightal
+Stealth for nature training
+
+## 30th of Hammer 1061
+We threw a party for the town. Kristif and I provided free Blacksun-Yarn brews for the town. Rikki and I once again attempted to set up Tool and Janreth to no avail.
+
+## 1st of Hammer 1061 - 21st of Hammer
+Completing Nature and Stealth training
+We plan to investigate the Rookrustle and then complete Marlowe's fortress at the Temple of the Set Sun.
+<hr>
+
+
 
 
 

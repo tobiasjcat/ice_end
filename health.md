@@ -2,9 +2,9 @@
 
 ## 17 AC!
 
-3 / 4 1st level spell slots used  
-0 / 3 2nd level spell slots used
-0 / 2 3rd level spell slots  used
+4 / 4 1st level spell slots used  
+3 / 3 2nd level spell slots used  
+2 / 2 3rd level spell slots used
 
 74 hp max 9 hit dice  
 74 temp hp now and 0 hit dice used
@@ -38,7 +38,7 @@ Brewers supplies 21st of Uktar
 
 
 - 20x silvered arrows
-- 46x +1 arrows
+- 42x +1 arrows
 - 7x Arrows of flame     [[1d6]] fire damage
 - 11x +1 Rose Thorn Arrows
 -- """
@@ -63,6 +63,7 @@ This thick, heavy spear is better wielded in two hands than one. When wielded in
 - 10ft Chain
 - Grappling hook
 - 1 storm ray, Ray Bradbury, fly speed 60ft
+- A handkerchief from whistia
 
 - 0 potion of health
 
@@ -78,7 +79,7 @@ Rocinante and Unbridled Dave and Sunbeam
 Marcellus Wallace and Gromet
 
 # Wealth
-5729 gp + 7 sp + 66 cp - the friends we made along the way.
+12812 gp + 7 sp + 66 cp - the friends we made along the way.
 250gp (0gp remaining) bond from Harbeck.
 740sp/annum
 
@@ -135,8 +136,8 @@ We each have one large peridot.
 
 4/4 workweeks of novice goblin language.
 proficiency bonus to learning orcish language
-7/10 weeks of training in stealth to novice level from Marlowe
-7/25 weeks of training in stealth to proficient
+10/10 weeks of training in stealth to novice level from Marlowe (half-proficiency rounded down)
+10/25 weeks of training in stealth to proficient
 
 # Spells  
 ## First Level
@@ -154,7 +155,7 @@ proficiency bonus to learning orcish language
 
 # Misc  
 - Level 9
-- 50,660 / 64,000 xp for 10 (last updated November 7, 2021)
+- 56,160 / 64,000 xp for 10 (last updated February 19, 2022)
 9sp / day for goblin lessons (Not active)
 
 # Micro macros:

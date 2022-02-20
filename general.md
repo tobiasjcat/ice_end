@@ -142,3 +142,6 @@ liquid or pour more until next dawn. Effectively can be used once a day
 
 ### Shopping list
 - [ ] 1200lb 50' hempen rope (54gp) (not currently available)
+
+### Stronghold
+- [R]epairing a ruined 1st-level keep would only cost 5,000 gold and take 75 days.
