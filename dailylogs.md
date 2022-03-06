@@ -1476,15 +1476,43 @@ Whistia also gave us each a nice handkerchief.
 ## 20th of Nightal - 30th of Nightal
 Stealth for nature training
 
-## 30th of Hammer 1061
+## 30th of Hammer 1062
 We threw a party for the town. Kristif and I provided free Blacksun-Yarn brews for the town. Rikki and I once again attempted to set up Tool and Janreth to no avail.
 
-## 1st of Hammer 1061 - 21st of Hammer
+## 1st of Hammer 1062 - 21st of Hammer
 Completing Nature and Stealth training
 We plan to investigate the Rookrustle and then complete Marlowe's fortress at the Temple of the Set Sun.
 <hr>
 
+## 21st - 23rd of Hammer
+Travelling to rookrustle by flying ray.
 
+## 23rd of Hammer
+We arrive in rookrustle.  Blackblade greets us and syas they are glad to see us. Wormbelly and Storymaster and several villages have gone into the sanctuary A few weeks ago on the solstice. They are cut off from their hive-mind connection to eachother.
+She said it was time for the people "forfill their duty to meet the foremind". This breaks with every tradition. She called on everyone to go but some of us did not want to.
+Storymaster also brought tools of war into the sanctum.
+Blackblade is glad that we are here and willing to investigate the sanctum.
+The foremind is what created the Rookrustle and gave them the hive mind properties.
+50 of the 300 kenku went into the santum. The remaining Kenku are having hard time without the mental connections.
+Storymaster's behavior had been acting more strange after the battle at Keswick Canyon where our faces fought together. After that she was more resolute on serving the foremind. She had a stronger desire to get closer the foremind.
+Blackblade says they don't know how to train a new leader so they are looking to just get storymaster back.
+Bubblemaker is having trouble suppressing her dread.  
+
+Blackblade takes us to an wooden elevator to lower us down the into the pit safely. In the center of the pit is the sancutary, a small square building. The pit walls are 200ft.
+The walls are sheer and not hewn resembling a canyon. Blackblade takes us to the building. A waterfall leads a small stream into another pit. This time of year, the waterfall is mostly frozen.
+The structure is the center of the pit and made out of steel resembling bunker. It has sloped walls and has a defensive architecture. There is a large double door on one side of it.
+The door has a basin attached to the front. Marlowe put one of her collected brains in the basin and it opened the door.
+
+Once the door lowered into the ground, Wormbelly was on the other side of the door. She is unhappy to see us. I noticed that this is a magical projection of her. She is referring to herself in the singular instead of plural as before. She does not want us to enter the sanctum. She is working with Storymaster to fulfill a role that the Storymaster keeps. Our actions which created the flying spirit which sent her into the sanctum, are representing of the power imbalance we created. She says that there is no way for the surface kenku to have their own mind network separate from the bunker kenku. The foremind was the one who created their hive mind powers.    
+I heard a grinding noise in the bunker. Inside we are on a metal balcony above a platform, but a set of stairs have been retracted. The lower platforms have kenku brandishing weapons.      
+Maslin's lightning bolt boosted a giant metallic scorpion's own lightning. Marlowe was wounded by concentrated volley of arrows. The metal-scorpion tank is resistant to a fireball. It struggles with dexterity. It was destroyed by acid and ice. We suspect it is resistant to necrotic damage as well.
+
+Nicolo joins us after the fight. He reported on the cavern undernearth the waterfalls second pit. It descends 250-300  feet and probably connects to other caves    
+
+On the ground floor, after the fight, there are two passages, a wider and narrower. Down the wider passage I heard another grinding sound. We headed down the narrower passage, which started to descend down and leads to another spiral staircase going down another 50 feet. The hallways are similar to those of Steeltooth's lair but more kept up. We met another steel door. We are around 95ft down.   
+I could hear a faint humming noise on the other side of the door. Nicolo slipped in the door as a spider and opened it from the other side.
+
+The door opened into a massive room with 80 room with a large nautilus shaped metalic object in the room.
 
 
 
