@@ -155,7 +155,7 @@ proficiency bonus to learning orcish language
 
 # Misc  
 - Level 9
-- 56,160 / 64,000 xp for 10 (last updated February 19, 2022)
+- 62,485 / 64,000 xp for 10 (last updated March 19th, 2022)
 9sp / day for goblin lessons (Not active)
 
 # Micro macros:
