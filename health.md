@@ -3,19 +3,17 @@
 ## 17 AC!
 
 4 / 4 1st level spell slots used  
-0 / 3 2nd level spell slots used  
-0 / 2 3rd level spell slots used
+3 / 3 2nd level spell slots used  
+2 / 2 3rd level spell slots used
 
 74 hp max 9 hit dice  
-43 temp hp now and 0 hit dice used
+63 temp hp now and 9 hit dice used
 
 Ray Bradbury has 27 hitpoints
 
 0 levels of exhaustion
 
-0 death saves failed, 0 succeeded
-
-Longbow +7 to attack 1d8 + 5 damage.
+0 death saves failed, 1 succeeded
 
 Blind fighting:
 - Blindsight 10ft
@@ -39,7 +37,7 @@ Brewers supplies 21st of Uktar
 
 - 20x silvered arrows
 - 42x +1 arrows
-- 5x Arrows of flame     [[1d6]] fire damage
+- 4x Arrows of flame     [[1d6]] fire damage
 - 10x +1 Rose Thorn Arrows
 -- """
 Rose Thorn Arrow: On hit extra 1d4 piercing from thorns and target must make a Strength or Dexterity save equal to the wielder’s spellcasting DC or be ensared for 1d4 rounds (can attempt to Str / dex to get free each round), 1d4 piercing damage each round the ensnared/restrained creature moves.

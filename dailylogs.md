@@ -1507,12 +1507,30 @@ Once the door lowered into the ground, Wormbelly was on the other side of the do
 I heard a grinding noise in the bunker. Inside we are on a metal balcony above a platform, but a set of stairs have been retracted. The lower platforms have kenku brandishing weapons.      
 Maslin's lightning bolt boosted a giant metallic scorpion's own lightning. Marlowe was wounded by concentrated volley of arrows. The metal-scorpion tank is resistant to a fireball. It struggles with dexterity. It was destroyed by acid and ice. We suspect it is resistant to necrotic damage as well.
 
-Nicolo joins us after the fight. He reported on the cavern undernearth the waterfalls second pit. It descends 250-300  feet and probably connects to other caves    
+Nicolo joins us after the fight. He reported on the cavern underneath the waterfalls second pit. It descends 250-300  feet and probably connects to other caves    
 
 On the ground floor, after the fight, there are two passages, a wider and narrower. Down the wider passage I heard another grinding sound. We headed down the narrower passage, which started to descend down and leads to another spiral staircase going down another 50 feet. The hallways are similar to those of Steeltooth's lair but more kept up. We met another steel door. We are around 95ft down.   
 I could hear a faint humming noise on the other side of the door. Nicolo slipped in the door as a spider and opened it from the other side.
 
-The door opened into a massive room with 80 room with a large nautilus shaped metalic object in the room.
+<hr>
+
+The door opened into a massive room with 80ft room with a large nautilus shaped metallic object in the room. One of the walls of this room is different from the others. It looks like it might drop down.
+
+Including the tendrils this ship is 180ft long, without 90ft. 70ft height. There are stairs leading up to a door, which is ajar and armed kenku are peeking out. The ship appears organic in origin, augmented with metal parts.
+
+On the floor is a bubbling pool near the tendrils where we can also hear whispering. The pool is feed by drops from the tendrils.
+
+Having boarded the ship, red glowing suits of armor are approaching. The Helmed horror is resistant to piercing and force damage.
+
+We captured a kenku named Jangler. Maslin put him under a Gease and we interrogated him. He said Wormbelly is going to use the energy in the Nautiloid to open a portal to communicate with the foremind. Storymaker/Wormbelly is somewhere in the hole in the ceiling.  
+
+The Nautiloid is metallic and organic on the inside as well. We severed the cables it had connected through a hole in the ceiling. There is an energy source in the lower deck of the ship. We recovered 4 mindblades from the ship and 2 canisters for the flame hose on the prow of the ship. The helmed horrors both yield suits of plate armor. There are also artillery shells.
+
+The hole in the ceiling is around 60 feet long. The old Storymaster is dead.
+
+We climbed up the chains coming from ship, and entered a room with a growing portal. We fought and killed Wormbelly/Storymaker. Aleuwyn's defeat weakened the barrier to planar travel. After Wormbelly's defeat the remaining three Kenku surrendered. 
+
+
 
 
 
