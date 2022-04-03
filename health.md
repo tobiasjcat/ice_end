@@ -2,12 +2,16 @@
 
 ## 17 AC!
 
-4 / 4 1st level spell slots used  
-3 / 3 2nd level spell slots used  
-2 / 2 3rd level spell slots used
+1 / 4 1st level spell slots used  
+0 / 3 2nd level spell slots used  
+0 / 2 3rd level spell slots used
 
-74 hp max 9 hit dice  
-63 temp hp now and 9 hit dice used
+0 / 4 Favored foe (on a hit, add 1d6 dmg)
+1 / 4 Nature's veil (invisible until the start of next turn)  
+0 / 4 Tireless (1d8 plus wisdom +2 health)  
+
+84 hp max 10 hit dice  
+84 + 0 temp hp now and 9 hit dice used
 
 Ray Bradbury has 27 hitpoints
 
@@ -64,6 +68,7 @@ This thick, heavy spear is better wielded in two hands than one. When wielded in
 - A handkerchief from Whistia
 
 - 2 potion of healing
+- Oil of sharpness (minute to apply to five ammunition for + 3)
 
 - 1/2 of an entire brew-house with Kristif. Blacksun Yarn.
 
@@ -77,7 +82,7 @@ Rocinante and Unbridled Dave and Sunbeam
 Marcellus Wallace and Gromet
 
 # Wealth
-12812 gp + 7 sp + 66 cp - the friends we made along the way.
+140pp + 14812 gp + 7 sp + 66 cp - the friends we made along the way.
 250gp (0gp remaining) bond from Harbeck.
 740sp/annum
 
@@ -108,9 +113,12 @@ We each have one large peridot.
 -- Moving Speed +5ft (to 40ft)
 -- Climbing speed and swimming speed to match
 
+## Tireless
+Short rests decrease exhaustion by 1
+
 ## Favored Foe
-- When hit creature, you can mark the creature for 1 minute w/ concentration
-  The first hit of each round, can add 1d4 damage
+- When hit creature, you can mark the creature for 1 minute w/ faux concentration
+- The first hit of each round after, can add 1d6 damage
 
 ## Iron Mind
 - Proficiency with wisdom saves
@@ -134,8 +142,8 @@ We each have one large peridot.
 
 4/4 workweeks of novice goblin language.
 proficiency bonus to learning orcish language
-10/10 weeks of training in stealth to novice level from Marlowe (half-proficiency rounded down)
-10/25 weeks of training in stealth to proficient
+12/10 weeks of training in stealth to novice level from Marlowe (half-proficiency rounded down)
+12/25 weeks of training in stealth to proficient
 
 # Spells  
 ## First Level

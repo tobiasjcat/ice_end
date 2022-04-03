@@ -1526,9 +1526,33 @@ We captured a kenku named Jangler. Maslin put him under a Gease and we interroga
 
 The Nautiloid is metallic and organic on the inside as well. We severed the cables it had connected through a hole in the ceiling. There is an energy source in the lower deck of the ship. We recovered 4 mindblades from the ship and 2 canisters for the flame hose on the prow of the ship. The helmed horrors both yield suits of plate armor. There are also artillery shells.
 
-The hole in the ceiling is around 60 feet long. The old Storymaster is dead.
+The hole in the ceiling is around 60 feet long. The old1600 Storymaster is dead.
 
-We climbed up the chains coming from ship, and entered a room with a growing portal. We fought and killed Wormbelly/Storymaker. Aleuwyn's defeat weakened the barrier to planar travel. After Wormbelly's defeat the remaining three Kenku surrendered. 
+We climbed up the chains coming from ship, and entered a room with a growing portal. We fought and killed Wormbelly/Storymaker. Aleuwyn's defeat weakened the barrier to planar travel. After Wormbelly's defeat the remaining three Kenku surrendered.
+
+<hr>
+
+Blackblade and Bubblemaker request to live near ice-end. We proposed that they live across the river. They agreed as they wanted to leave Rookrustle. We exiled Djangler who had been under a Gease of Maslin's who traveled North.   
+
+## 24th of Hammer
+Resting.
+
+## 24th - 26th of Hammer
+Safe return to ice-end.  
+
+## 26th of Hammer to 16th of Alturiak
+Trading nature for stealth skills with Marlowe.   
+One night we were all at Mordecai's. The Briggs Brothers are arguing over who is buying Whistia Knight a drink. We talked to a few townsfolk.   
+We may have convinced the Briggs Brothers to stop bickering.
+
+## 16th of Alturiak
+Kristif's temple was completed. It is a stone temple built into the side of the cliff.  
+
+## 17th of Alturiak
+Spent the day casting plant growth on the town's fields. Captain Pybba decides to join Kristif's church. I had a great conversation with Calvin about his marriage.  
+Drusilla is concerned about something coming down through the pass. A big metal thing covered with bodies and a basket of bones is heading to Kristif's new temple.  
+The undead collector and specters are resistant to piercing damage. Kristif slew it with an enormous holy lightning strike.   
+
 
 
 

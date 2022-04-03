@@ -68,7 +68,7 @@
  Occupation: Farmers   
  Languages:  
  Age:  
- Notes: Brothers who do not like each other.  
+ Notes: Brothers who do not like each other. Jyfer is the older brother. Jyca? is the middle brother.    
 
  # Mica Briggs
  Race: Human    
@@ -88,7 +88,7 @@
  Occupation: Wheat Farmer  
  Languages:  
  Age:  
- Notes: Saved from wolf and goblins on day 1. Has a donkey named Orson. Dark skin, red hair. Fairly strong but not wolf-strong.   
+ Notes: Saved from wolf and goblins on day 1. Has a donkey named Orson. Dark skin, red hair. Fairly strong but not wolf-strong. In relationship with Dunbar. s   
 
  # Chief Grukgruk Trunkfist   
  Race: Bugbear  
@@ -113,10 +113,10 @@
 
  # Whistia Knight  
  Race: Human   
- Occupation:  
+ Occupation: Seamstress.   
  Languages:  
  Age:  
- Notes: Sharing glances with Dunbar   
+ Notes: She is unnaturally pretty.   
 
  # Thaddeus Jim-jar Thorpe  
  Race: Gnome   
@@ -358,14 +358,13 @@
  Notes:  
 
 
-
- <!--  # Name
-  Race:  
-  Occupation:  
-  Languages:  
+  # Marianna  
+  Race: Human   
+  Occupation: Homesteader   
+  Languages: Common at least.  
   Age:  
-  Notes:  
-  -->
+  Notes: Participated in Kingsmass. One of the newer colonists. Secretly a penal colonist. A former pickpocket from Lothal.   
+
 
   <!--  # Name
    Race:  
