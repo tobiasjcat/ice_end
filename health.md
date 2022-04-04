@@ -7,7 +7,7 @@
 0 / 2 3rd level spell slots used
 
 0 / 4 Favored foe (on a hit, add 1d6 dmg)
-1 / 4 Nature's veil (invisible until the start of next turn)  
+2 / 4 Nature's veil (invisible until the start of next turn)  
 0 / 4 Tireless (1d8 plus wisdom +2 health)  
 
 84 hp max 10 hit dice  
@@ -39,7 +39,7 @@ Want to have:
 Brewers supplies 21st of Uktar
 
 
-- 20x silvered arrows
+- 16x silvered arrows
 - 42x +1 arrows
 - 4x Arrows of flame     [[1d6]] fire damage
 - 10x +1 Rose Thorn Arrows
