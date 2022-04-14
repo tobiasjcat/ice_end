@@ -79,7 +79,7 @@ We also now have 4 horses.
 Rocinante and Unbridled Dave and Sunbeam
 
 
-Marcellus Wallace and Gromet
+Marcellus Wallace and Gromit
 
 # Wealth
 140pp + 14812 gp + 7 sp + 66 cp - the friends we made along the way.
@@ -98,6 +98,15 @@ Maslin is working as an unpaid apprenticeship.
 We each have one large peridot.
 
 # Skills and proficients
+## 1 from wood elf
+- Perception
+## 3 from ranger
+- Nature
+- Insight
+- Animal Handling
+## 2 from Outlander
+- Athletics
+- Survival (2x from Deft explorer)
 
 ## Minor skills:
 - camouflage
@@ -146,100 +155,42 @@ proficiency bonus to learning orcish language
 12/25 weeks of training in stealth to proficient
 
 # Spells  
-## First Level
-- Goodberry
-- Zephyr Strike (XgtE) (concentration)
-- Disguise Self (concentration)
+- First Level
+-- Goodberry
+-- Zephyr Strike (XgtE) (concentration)
+-- Disguise Self (concentration) (learned free from gloom stalker)
 
-## Second Level
-- Enhance Ability (concentration)
-- Pass Without Trace (concentration)
+- Second Level
+-- Enhance Ability (concentration)
+-- Pass Without Trace (concentration)
+-- Rope trick (learned free from gloom stalker)
 
-## Third Level
-- Plant growth
+- Third Level
+-- Plant growth
+-- Fear (concentration) (learned free from gloom stalker)
 
+## Primal Awareness
+- Each once per long rest
+-- Speak with animals
+-- Beastsense Good synergy with Nicolo
+-- Speak with plants (should move with you)
 
 # Misc  
-- Level 9
+- Level 10
 - 64,985 / 85,000 xp for 11 (last updated March 19th, 2022)
 9sp / day for goblin lessons (Not active)
 
-# Micro macros:
-## Rapier
-rapier w/adv [[3d20kh1+8]] to hit
-rapier [[1d20+8]]
-rapier damage [[1d8+4]]
-critical rapier damage [[2d8+4]]
 
-## Longbow to hit
-longbow attack w/ +1 arrows [[1d20+8]]
-longbow attack w/ rose thorn arrows [[1d20+8]]
-disadvantage rose thorn arrow [[2d20kl1+8]]
-disadvantage longbow [[2d20kl1+7]]
+# DnD Beyond changes:
+- Base were too high for standard array. Int reduced to 8 from 10
+- Perception prof. Comes from Wood elf, did not have to select it as a Ranger. Selected Insight instead
+- Gloom stalker spells are learned automatically and don't count against known spells.
+-- Added new spells, rope trick and fear
+-- Had already selected Disguise-self as known spell. Added Absorb Elements from XgtE
+- Replaced never used Primeval Awareness with Primal Awareness
+-- Added spells which can each be cast once per long rest:  Speak with animals, Beast sense, speak with plants
 
-sharpshot longbow [[1d20+2]]
-advantage sharpshot longbow [[3d20kh1+2]]
-advantage sharpshot longbow w/ silvered arrow [[3d20kh1+2]]
-zephyr sharpshot longbow [[3d20kh1+2]]
-zephyr sharpshot longbow w/ silvered arrow [[3d20kh1+2]]
-
-## Longbow damage
-zephyr longbow attack w/ +1 arrows [[3d20kh1+8]]
-zephyr longbow attack w/ rose thorn arrows [[3d20kh1+8]]
-adv longbow attack w/ +1 arrows [[3d20kh1+8]]
-
-
-longbow +1 arrow damage [[1d8+5]]
-zephyr longbow hit w/ +1 arrows does [[1d8+5]] piercing plus [[1d8]] force damage
-critical zephyr hit piercing [[2d8+4]] plus [[2d8]] force damage
-rose thorn pierce damage [[1d4]]
-
-sharpshot damage [[1d8+15]]
-critical sharpshot damage [[2d8+15]]
-
-
-### The Mega
-Ambushing zephyr sharpshooter-power shot w/ +1 arrows attack[[3d20kh1+3]]
-Ambushing zephyr sharpshooter-power shot w/ +1 arrows damage [[2d8+15]] piercing, [[1d8]] force
-Critical ambushing zephyr sharpshooter-power shot w/ +1 arrows damage [[3d8+15]] piercing, [[2d8]] force
-
-Ambushing zephyr sharpshooter-power shot attack [[3d20kh1+2]]
-Ambushing zephyr sharpshooter-power shot damage [[2d8+14]] pierce, [[1d8]] force
-
-stealth (no camo) [[1d20+4]]
-stealth with camo [[1d20+7]]
-
-surgery [[1d20+7]]
-surgery w/ help [[2d20kh1+7]]
-stealth w/ pass without trace [[ 1d20+14 ]]
-
-
-
-Knifers used gust! [[1d20+2]]
-Knifers used peck! [[1d20+2]]
-Knifers used dive! [[1d20+2]]
-Kenku vultures used kidney stab! [[1d20+2]]
-Knifers used wing attack! [[1d20+2]]
-Knifers used quick attack! [[1d20+2]]
-It is [[1d20+2]] effective
-Tough luck [[1d20+2]]
-Bird morality [[1d20+4]]
-
-
-
-
-Tool's lance attack [[1d20+8]]
-Sundering lance dmg [[1d12+5]]
-
-Tool's Smoldering handaxe to hit [[1d20+3]]
-Handaxe [[1d6]] fire damage [[1d6]] slashing damage
-
-Potion of Greater Healing [[4d4 + 4]]
-
-
-
-
-
-
+## Character Sheet
+https://www.dndbeyond.com/characters/71927883
 
 .
