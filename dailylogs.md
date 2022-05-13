@@ -1553,7 +1553,40 @@ Spent the day casting plant growth on the town's fields. Captain Pybba decides t
 Drusilla is concerned about something coming down through the pass. A big metal thing covered with bodies and a basket of bones is heading to Kristif's new temple.  
 The undead collector and specters are resistant to piercing damage. Kristif slew it with an enormous holy lightning strike.   
 
+<hr>
 
+## Blurnsday, 22nd of Alturiak
+Mordecai invites us to a night of cards and drinks in his suite underneath whitemoon threads.
+The chef dwarf opens up a trapdoor by stamping by on a pressure plate on the floor. In the chamber is Mordecai's personal office. The there is a smokey red haze around the room. There is actual red velvet on the walls.
+He makes us drinks and plays cards with us for an hour. We get the impression he has an agenda. There are a few magical items.
+Mordecai wants us to be discrete about a business proposal. He would like to purchase an exclusive contract for future magicite we collect. He doesn't want us to renege on the contract with the Boundless Odyssey Trading Company.
+It could be awkward with the BOTC but not illegal.
+From his new shipment, I bought a potion of good of hope for 660gp.
+We bought three training books nature, arcana and history.
+
+
+## The month of Alturiak
+We  met a bunch of new people.
+- The Communicants of Light, inquisitors of the church of Apollo.
+-- They arrive in a chartered ship during while the coast still had a good amount of ice. The ship drops them off and the leaves.
+-- There are three of them.
+-- Inquistor Suprema, a tall, wiry Dragonborn. Dark priestly robes. Scaly bronze skin. Professional with an air of superiority.  
+-- A half-elf woman, a paladin knight. Lieutenant to Suprema. Shorter but muscled. Clearly tired but attempting to hide it. Evil almond colored eyes. Blue cloak.
+-- Papa-ardelle human knight-paladin. A big, older portly guy. Sunny and amiable.
+- Hazel Knot-wrench, a traveling bard
+- The Green Moss Society, a druidic order.
+-- Led by a older human woman . Curled cropped auburn hair and sun-crisped reddish-brown skin. She is missing her right foot and seems a bit frail. Dressed in stripped robes, red yellow, black.
+-- A halfling Begga Puddlehand, the most junior member of the party. Cyan eyes and rugged skin. Thin and frail. Plain brown coat. Cheery and chaotic.
+-- Young half-elf man, Abrama Locke, wild ruggedly handsome look. Light skin which is not as weathered. Have small scars on ankles. Quiet and reserved. Accompanied by a wolf, Akira.
+- Servants of the Sundered Moon, another adventuring party.
+- Godfrey Roundtree, a baron
+
+
+We first me the inquisitors with Harbeck who recognizes Papa. They embrace as if they are old friends. They settle in a house as if they are here for the long haul.
+
+
+We also meet the Green Moss Society, a druidic order from a general colonist ship. They are here to watch out for Oxfrills. Abrahma Akira is his brother, he accompanies him. We set up a play date with Preston. He's down to share a J. Getting to know him a bit better, he's been in the green moss society mostly his whole life. He was found in the woods and doesn't know who his parents. Akira is basically his adoptive brother. The Green Moss Society comes from unincorporated forests south of the free cities.    
+He says they are here to do right by nature and make sure there is a good balance.    
 
 
 

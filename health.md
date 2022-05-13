@@ -86,6 +86,8 @@ Marcellus Wallace and Gromit
 250gp (0gp remaining) bond from Harbeck.
 740sp/annum
 
+TODO subtract 660 for potion of good hope
+
 4x farm-hands at 2sp daily. Hired Highsun 10. Also hired Durbar for lessons goblin language lessons elient 3rd for 5sp a session. 250 sessions needed for fluency.   
 Three human men: Angelbert, Allen and Vulcer. One human woman: Evelyn. Allen is the new foreman.   
 Ordered 5 chickens for 1gp (accounted for)  
