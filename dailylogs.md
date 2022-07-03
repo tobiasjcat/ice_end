@@ -1570,7 +1570,7 @@ We  met a bunch of new people.
 - The Communicants of Light, inquisitors of the church of Apollo.
 -- They arrive in a chartered ship during while the coast still had a good amount of ice. The ship drops them off and the leaves.
 -- There are three of them.
--- Inquistor Suprema, a tall, wiry Dragonborn. Dark priestly robes. Scaly bronze skin. Professional with an air of superiority.  
+-- Inquisitor Suprema, a tall, wiry Dragonborn. Dark priestly robes. Scaly bronze skin. Professional with an air of superiority.  
 -- A half-elf woman, a paladin knight. Lieutenant to Suprema. Shorter but muscled. Clearly tired but attempting to hide it. Evil almond colored eyes. Blue cloak.
 -- Papa-ardelle human knight-paladin. A big, older portly guy. Sunny and amiable.
 - Hazel Knot-wrench, a traveling bard
@@ -1587,6 +1587,24 @@ We first me the inquisitors with Harbeck who recognizes Papa. They embrace as if
 
 We also meet the Green Moss Society, a druidic order from a general colonist ship. They are here to watch out for Oxfrills. Abrahma Akira is his brother, he accompanies him. We set up a play date with Preston. He's down to share a J. Getting to know him a bit better, he's been in the green moss society mostly his whole life. He was found in the woods and doesn't know who his parents. Akira is basically his adoptive brother. The Green Moss Society comes from unincorporated forests south of the free cities.    
 He says they are here to do right by nature and make sure there is a good balance.    
+
+<hr>
+
+## 2nd of Ches
+In the evening, Marlowe was approached by Patsy. Pasty seems concerned about the Inquisitors. The inquisitors we asking about the nature of the services Calvin and Marlowe. Pasty says the locals are on Marlowe's side.
+
+The rest of us were approached by a representative of Lady Cliffsend and brings us to Harbeck's place. Lady Cliffsend explains why we are here without Marlowe. She tells us the inquisition may be trouble for Marlowe. It is illegal for her to inform Marlowe.  
+We know that the church has authority to prosecute religious crimes with some flexibility. Maslin spreads the word at Mordecai's about Marlowe's good deeds.  
+
+Kristif talked to Marlowe about what Cliffsend said.
+
+## 3rd of Ches
+
+The three inquisitors approached Marlowe to ask questions. Papa-ardelle, Inquisitor Suprema, and Seraphina. They are armed and armored. They inquisted Marlowe under a Zone of Truth.
+
+
+
+
 
 
 
