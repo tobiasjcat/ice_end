@@ -1602,7 +1602,61 @@ Kristif talked to Marlowe about what Cliffsend said.
 
 The three inquisitors approached Marlowe to ask questions. Papa-ardelle, Inquisitor Suprema, and Seraphina. They are armed and armored. They inquisted Marlowe under a Zone of Truth.
 
+<hr>
 
+The inquisition is satisfied and are working on undoing the charming on Calvin which had made him forget about Margareta. They ward the Wodehouse family. Margareta pretends as if Calvin is her dad.
+
+## 22nd of Ches
+
+Baron Roundtree promises authority and his knights to meet us at Crystal lake.
+
+Marlowe is heading out to The temple of the set sun. The rest of us head to Algana.
+
+## 25th of Ches
+
+Arrival at Algana. Greeted by Greyvill and Jotah. The members of the tribe are welcoming and willing to fight with us. Our trading has allowed them to incorporate metal tools.
+Greyvill will lead the warriors to Camp Crytal Lake, with dog sleds.
+
+
+## 1-10th of Tarsakh
+
+Arrival at The Temple of the Setting Sun.
+We christened `Margareta and Marlowe's Magnificent Midsummer Mansion`.
+We took a day trip to Fort Ten Candles. The fort is in disrepair. The forest still shows signs of clear cutting.
+
+We considered re-occupying FTT.
+
+We re-named the tributary to the unnamed river the Sun-Stream.
+
+We found no-one at the creepy ashy village. The ashy demarcation is starting to be reclaimed by nature.
+
+We also found a pass towards a special cave.
+
+## 11of Tarsakh - 21st Mirtul
+
+Kristif spent the week fishing and smoking fish.
+
+Maslin spent the month making herbal potions.
+
+Options
+Surgeon's tools to gather monster bits.
+
+Long rest? I spent the time growing plants, spying, and collecting monster bits. Collecting more mistletoe for goodberries.
+
+1 week finding plenty of mistletoe. 3 weeks of gardening around the Midsummer Mansion.
+
+## 21st - 28 of Mirtul
+
+Travel to and arrival at Subinity.
+We arrived on a day of battle between the Maraket tribe and Neiryeet.
+
+We defeated the Neiryeet and left no humanoid witnesses. Afterwards we talked with the leader of the clan, Torgan who is grateful for our efforts. The Neiryeet have been attacking regularly which is unusual for this far south. Torgan thinks there may have been trouble in the north. The raids have also been coming from the woods. There is also a sacred burial site in those woods.
+
+The site and the guardian spirit are on a mound in the middle of the woods. We decided to venture in an fight the spirit.
+
+In the forest I spotted tracks of heavy humanoids and horses. The trees told me the heavy humanoids were talking about burning the forest down. We followed the heavy humanoid tracks.
+
+We crept up on a group of ten hobgoblin of Var Galaria. They want to torch the trees but they want to wait until the riders.
 
 
 

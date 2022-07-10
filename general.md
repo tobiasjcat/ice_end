@@ -145,3 +145,15 @@ liquid or pour more until next dawn. Effectively can be used once a day
 
 ### Stronghold
 - [R]epairing a ruined 1st-level keep would only cost 5,000 gold and take 75 days.
+
+### Ten Candles
+
+ __       __
+/  \_____/  \
+\   -----   /
+ | |     | |
+ | |     | |
+ | |     | |
+ |  -----  |
+/   _____   \
+\__/     \__/
