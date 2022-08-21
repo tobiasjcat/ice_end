@@ -1697,10 +1697,11 @@ Her words seem genuine but rehearsed. She agreed to let us search her possession
 Her possessions are as expected. Janreth does not recognize the Lich or Velatra. We will allow her to join us.
 
 
-## 4th - 12th Kythorn
-Travelling is very difficult, it is basically constant blizzard. 
+## 4th - 15th Kythorn
+Travelling is very difficult, it is basically constant blizzard.
 
 
+<hr>
 
 
 
