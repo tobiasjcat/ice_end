@@ -405,22 +405,22 @@ Languages:
 Age:  
 Notes:  
 
-<!--  # Name
-Race:  
-Occupation:  
+# Malkus Yellow-arrow
+Race: Halfling woman
+Occupation: Elected Chief of the KaraJhinzkha tribes  
 Languages:  
 Age:  
 Notes:  
--->
 
-<!--
-# Name (Player)
-Race:  
+
+
+# Velatra Whisperwind
+Race: Human woman  
 Occupation:  
 Languages:  
 Age:  
-Notes:  
--->
+Notes: Appears from slyvanos 
+
 
 <!--
 # Name (Player)

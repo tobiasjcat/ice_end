@@ -1259,7 +1259,7 @@ Their leader is named Firefist. They worship the sun-god Gok-Tske. The two
 capitves are named Okin and Chimbai. Their settlement is called Tumen Ord.    
 <hr>
 The pair claim the tribe does not to attack useful trading partners and subjected
-lords. For example the Kara-Jhinzkha create fancy trinkets for them.
+lords. For example the Kara-Jhinzkha (KaraJhinzkha) create fancy trinkets for them.
 We decided we didn't want to go all the way to Tumen Ord and back so we cut the
 pair loose and told them we would be back. They told us where their camp was and
 that is our new destination.
@@ -1320,9 +1320,9 @@ Tool encountered a trio of bears and we killed two but we intimidated one away f
 
 After breaking camp one day, we were set up by a group of humans. Mostly humans riding horses there is also a hobgoblin and a few halflings riding war-dogs. The riders do not resemble Tumen Ord members. They have horsehair tassels.
 <hr>
-They are the Kara-Jhinzkha. One rider is their leader. When they reveal themselves to be non-threating Maslin and Marlowe reveal themselves and greet peacefully. The leader is named Barta Khonghar and we are on their lands. They advise us on not heading into Near-Yeet territory. Barta says the Near-Yeet are oath-breakers and not to be trusted.
+They are the Kara-Jhinzkha (KaraJhinzkha). One rider is their leader. When they reveal themselves to be non-threating Maslin and Marlowe reveal themselves and greet peacefully. The leader is named Barta Khonghar and we are on their lands. They advise us on not heading into Near-Yeet territory. Barta says the Near-Yeet are oath-breakers and not to be trusted.
 
-Tumen Ord are a breakaway tribe from the Kara-Jhinzkha. The riders are in the process of hunting monsters and Maslin offers to assist with the hunt. Their armor has a more a lived in look.
+Tumen Ord are a breakaway tribe from the Kara-Jhinzkha (KaraJhinzkha). The riders are in the process of hunting monsters and Maslin offers to assist with the hunt. Their armor has a more a lived in look.
 
 They lead us rapidly without stopping and eat in the saddle. We rode for longer than we expected. They tell us we are hunting trolls.
 
@@ -1334,17 +1334,17 @@ At the first troll, Derwood landed 3 arrows, two critical and combined with the 
 After we slayed the trolls, we slipped out of the cave when hobgoblins and goblins showed up and started smoking out the cave. We camped out on the hill until dawn when we ambushed the hobgoblins.
 
 The Kara Jhinzkha let us know these goblins come from Var-Galaria from the western Etruria. Var-galaria is a Imperial Union. Hob-goblin empire quite far from Lothal but considered existential threat to continental nations. Var-galaria is technologically advanced, their armies are disciplined and organized.
-The Kara-Jhinzkha tell us there a lot of more hob-goblins approaching from the western coasts. They assimilate native goblinoids. It's possible the goblins were starting negotiations with trolls.   
+The Kara-Jhinzkha (KaraJhinzkha) tell us there a lot of more hob-goblins approaching from the western coasts. They assimilate native goblinoids. It's possible the goblins were starting negotiations with trolls.   
 Barta says the western shores are more than 10-30 days ride to the western coast and that's including circumnavigating the great Lake Kharnar.
-The Kara-Jhinzkha clans are meeting at S’uubaa’neetai in the Kuskwharuum Basin.
+The Kara-Jhinzkha (KaraJhinzkha) clans are meeting at S’uubaa’neetai (Suubaaneetai) in the Kuskwharuum Basin.
 This party is assigned to slay monsters that descend from the snowing mountain pass.
 Tribes Meriket, Kipchak, Ulaanbator, Tseng-Ta, Kyrghaz.
 The sage is Tjin Yesun.
-Monters and demons smashed through Tumen-ord and forced the Kara-Jhinzkha forced these people to be migratory. Chief Malkus Yellow-arrow wants us to be mobile but push back north where they had been driven out.
-Firefist denounced the traditions of Kara-Jhinzkha and split off.
+Monters and demons smashed through Tumen-ord and forced the Kara-Jhinzkha (KaraJhinzkha) forced these people to be migratory. Chief Malkus Yellow-arrow wants us to be mobile but push back north where they had been driven out.
+Firefist denounced the traditions of Kara-Jhinzkha (KaraJhinzkha) and split off.
 
 ## 14 of Marpenoth
-Arrival at S'uubaa'neetai, a vast collection of yurts, tents and huts. Leather tents colors denote tribes. There are many pastures and penned mammals. We estimate five thousand people reside here.
+Arrival at S'uubaa'neetai (Suubaaneetai), a vast collection of yurts, tents and huts. Leather tents colors denote tribes. There are many pastures and penned mammals. We estimate five thousand people reside here.
 
 We will meet Malkus Yellow-arrow tomorrow.
 <hr>
@@ -1617,6 +1617,8 @@ Marlowe is heading out to The temple of the set sun. The rest of us head to Alga
 Arrival at Algana. Greeted by Greyvill and Jotah. The members of the tribe are welcoming and willing to fight with us. Our trading has allowed them to incorporate metal tools.
 Greyvill will lead the warriors to Camp Crytal Lake, with dog sleds.
 
+Greyvill + Patsy
+
 
 ## 1-10th of Tarsakh
 
@@ -1645,7 +1647,7 @@ Long rest? I spent the time growing plants, spying, and collecting monster bits.
 
 1 week finding plenty of mistletoe. 3 weeks of gardening around the Midsummer Mansion.
 
-## 21st - 28 of Mirtul
+## 21st - 29 of Mirtul
 
 Travel to and arrival at Subinity.
 We arrived on a day of battle between the Maraket tribe and Neiryeet.
@@ -1658,6 +1660,45 @@ In the forest I spotted tracks of heavy humanoids and horses. The trees told me 
 
 We crept up on a group of ten hobgoblin of Var Galaria. They want to torch the trees but they want to wait until the riders.
 
+<hr>
+
+Now we are heading back toward the path of the Nieryet. We found them fighting with humanoids possessed by roots and thorns. One of the plants has a humanoid shape but isn't made from a dead body.
+
+We burned and shot the plantiods to death.
+
+We made our way to the burial mound surrounded by some pools.
+A spirit is waving its hands over a stone slab. He says "I've been watching you". The forest spirit is mad at the Maraket for wanting the forest to be contained. The spirit thinks that the Maraket are trying to use the forest as a resource.
+
+A gigantic frog attacked us as well! We had a tough fight but won. Though I was poisoned and protracted a bad fever.
+
+<hr>
+
+Tomorrow Kristif can remove the necrotic poison.
+
+Torgan is deeply thankful for our actions. They will be able to start making magical arrows. He gifts us two items of The Maraket Family Blade, Bell of Trap Finding, and Bracers of Life Stealing. We didn't take the blade.
+
+
+## 4th of Kythorn
+Arrival at Suubaaneetai.
+
+We presented ourselves to Chief Yellow-Arrow on her impressive throne. This time there are fewer accommodations. Yellow-Arrow has a fresh scar. The tribes are called the KaraJhinzkha. They have been raided frequently by hobgoblins and Neiryet who are working together now.
+
+The Nieryet and hobgoblins have combined armor across the river. If defeated, Yellow-Arrow can give spare some forces for us.  
+
+With us having defeated them in open battle, there were a just enough casualties to the combined Neiryet and Hobgoblin forces for cause them retreat.
+
+
+While travelling, one night a human woman wanders in, Velatra Whisperwind. Caster in appearance, but with bow as well. She has come in pursuit of a person who has gone in the same direction we are traveling.
+
+She is hunting the lich leader, Kuva the Whispered-one, a leader of a slavery ring that Velatra has broken up. She thinks the wastes will protect and increase his power. She is skilled in tracking and hunting. Kuva would not fight with Aleuwyn. She is not asking for our assistance. Kuva's ring had been in the Free-cities. She agrees that defeating Aleuwyn would serve her.
+
+Her words seem genuine but rehearsed. She agreed to let us search her possessions. Drusilla is a little concerned with her stealth since Drusilla didn't see her coming.
+
+Her possessions are as expected. Janreth does not recognize the Lich or Velatra. We will allow her to join us.
+
+
+## 4th - 12th Kythorn
+Travelling is very difficult, it is basically constant blizzard. 
 
 
 

@@ -41,7 +41,7 @@ Brewers supplies 21st of Uktar
 
 - 16x silvered arrows
 - 42x +1 arrows
-- 4x Arrows of flame     [[1d6]] fire damage
+- 2x Arrows of flame     [[1d6]] fire damage
 - 10x +1 Rose Thorn Arrows
 -- """
 Rose Thorn Arrow: On hit extra 1d4 piercing from thorns and target must make a Strength or Dexterity save equal to the wielder’s spellcasting DC or be ensared for 1d4 rounds (can attempt to Str / dex to get free each round), 1d4 piercing damage each round the ensnared/restrained creature moves.
@@ -54,7 +54,7 @@ Damage: 1d6 piercing
 Properties: Versatile (1d8), Special, Winged
 This thick, heavy spear is better wielded in two hands than one. When wielded in both hands, a boar spear gains the reach and wind-up properties in addition to the increased damage it gains from the versatile property.
 ```
-- 20x +2 arrows
+- 19x +2 arrows
 - 1 Longbow +1 (magically)
 - 1 rapier
 - 1 silver longsword
@@ -68,7 +68,10 @@ This thick, heavy spear is better wielded in two hands than one. When wielded in
 - A handkerchief from Whistia
 
 - 2 potion of healing
+- 2 potions of greater healing
 - Oil of sharpness (minute to apply to five ammunition for + 3)
+- Scroll of hold monster
+- Remember mindblade +2 wisdom save
 
 - 1/2 of an entire brew-house with Kristif. Blacksun Yarn.
 
@@ -179,9 +182,9 @@ proficiency bonus to learning orcish language
 
 # Misc  
 - Level 10
-- 64,985 / 85,000 xp for 11 (last updated March 19th, 2022)
+- 71,160 / 85,000 xp for 11 (last updated March 19th, 2022)
 9sp / day for goblin lessons (Not active)
-
+6175
 
 # DnD Beyond changes:
 - Base were too high for standard array. Int reduced to 8 from 10
@@ -194,5 +197,29 @@ proficiency bonus to learning orcish language
 
 ## Character Sheet
 https://www.dndbeyond.com/characters/71927883
+
+
+Con fails 0
+Con success 0
+
+
+## Armies
+Attack -
+Rally - Improve morale, like a deathsave once per battle
+Disengage - leave
+
+Maraket Camel riders
+hp 6/6
+Attack - [[1d20 + 4]]
+Charge attack [[2d0kh1 + 4]]
+Power - [[1d20 + 5]]
+Morale - [[1d20 + 6]]
+
+Maraket Camel artillery
+hp 4/4
+Attack - [[1d20 + 4]]
+Power - [[1d20 + 5]]
+Morale - [[1d20 + 4]]
+
 
 .
