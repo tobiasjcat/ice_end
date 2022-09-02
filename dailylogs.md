@@ -1700,8 +1700,36 @@ Her possessions are as expected. Janreth does not recognize the Lich or Velatra.
 ## 4th - 15th Kythorn
 Travelling is very difficult, it is basically constant blizzard.
 
-
 <hr>
+
+It's very cold and we don't like it. Continually dark too. The dread is creeping in. After a series of misfortunes, we discovered ruins to take shelter in. Getting closer, the ruins look like that of buildings, Mostly buried in under the snow. Big metal spikes are poking up out of the ground. The metal bits do resemble the structure of a Nautiloid cruiser. The forging matches our mind-blades.
+
+The snow is built up on the destroyed buildings. As we investigated the buildings, we heard a howling on the wind. More like a great moaning of great remorse. It appears and looks like a storm with a face.
+
+We informed the armies why were are here. The Algonans asked if it was Aleuwyn who caused the "Downheaval". Where ground fell out of the sky, and then Etruria was discovered. The Algonans said that they used to live on a series of islands, but here. Only Algona has a flood myth.
+
+Velatra also listened. She had heard that teleportation and planar travel doesn't happen here. She asks if Aleuwyn is the cause of that. We suspect that Aleuwyn could indeed have been the cause.
+
+On our way, we felt like we were approaching the eye of the storm. The weather is very likely artificial and not following a natural pattern.
+
+We entered a clearing with a clearer sky.
+
+There are shimmering aurora in the sky. There is a massive mountain-sized dead tree. It reaches up to the sky. It is a faded gold color. Cascading down the tree are flows of ice.
+
+There are many smaller trees with buildings built into them. It looks like the icicles have their own sculpted appearance.
+
+We talked to Janreth who confirms that Velatra came alone. Janreth has not heard of Velatra or the lich. Janreth isn't sure of her motivations.
+
+We investigated Velatra a bit more. Kristif detected magic and found that Velatra is encased in illusion magic.
+
+Marlow intimidated Velatra into having her remove her ring which hiding her true elvish appearance. Her skin is weathered and she is carrying a bow. She looks weary and like she has been through a lot. Her name is Teveti. She admits the lich was made up she wants to capture Aleuwyn alive.
+
+She wants to keep the blocks on inter-planar travel and if that means keeping Aleuwyn alive, that's what she'll fight for.
+
+## 16th of Kythorn
+
+We rested up to prepare for infiltration tomorrow. At night the big tree was twinkling and the icicles were actually molten glass of magicite. The pulses with the pulses of dread. 
+
 
 
 

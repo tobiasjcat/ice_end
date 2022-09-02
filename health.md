@@ -39,7 +39,7 @@ Want to have:
 Brewers supplies 21st of Uktar
 
 
-- 16x silvered arrows
+- 13x silvered arrows
 - 42x +1 arrows
 - 2x Arrows of flame     [[1d6]] fire damage
 - 10x +1 Rose Thorn Arrows
@@ -220,6 +220,10 @@ hp 4/4
 Attack - [[1d20 + 4]]
 Power - [[1d20 + 5]]
 Morale - [[1d20 + 4]]
+
+## Potential stronghold
+### Class improvement
+Your favored enemy has vulnerability to your attacks. 4 You can do this to a number of damage rolls equal to your stronghold level, after which you must take an extended rest to refresh this ability.
 
 
 .
