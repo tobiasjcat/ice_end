@@ -1722,7 +1722,7 @@ We talked to Janreth who confirms that Velatra came alone. Janreth has not heard
 
 We investigated Velatra a bit more. Kristif detected magic and found that Velatra is encased in illusion magic.
 
-Marlow intimidated Velatra into having her remove her ring which hiding her true elvish appearance. Her skin is weathered and she is carrying a bow. She looks weary and like she has been through a lot. Her name is Teveti. She admits the lich was made up she wants to capture Aleuwyn alive.
+Marlow intimidated Velatra into having her remove her ring which hiding her true elvish appearance. Her skin is weathered and she is carrying a bow. She looks weary and like she has been through a lot. Her name is Taaveti. She admits the lich was made up she wants to capture Aleuwyn alive.
 
 She wants to keep the blocks on inter-planar travel and if that means keeping Aleuwyn alive, that's what she'll fight for.
 
@@ -1730,7 +1730,7 @@ She wants to keep the blocks on inter-planar travel and if that means keeping Al
 
 We rested up to prepare for infiltration tomorrow. At night the big tree was twinkling and the icicles were actually molten glass of magicite. The pulses with the pulses of dread. 
 
-
+<hr>
 
 
 .
