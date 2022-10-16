@@ -1728,9 +1728,33 @@ She wants to keep the blocks on inter-planar travel and if that means keeping Al
 
 ## 16th of Kythorn
 
-We rested up to prepare for infiltration tomorrow. At night the big tree was twinkling and the icicles were actually molten glass of magicite. The pulses with the pulses of dread. 
+We rested up to prepare for infiltration tomorrow. At night the big tree was twinkling and the icicles were actually molten glass of magicite. The pulses with the pulses of dread.
 
 <hr>
+
+## 17th of Kythorn
+
+As we and our gathered forces emerged from the blizzard and started marching toward the immense tree, we passed many deserted buildings resembling trees. Many are burnt or destroyed. Shattered Nautiloid vessels are scattered around as well.
+
+The main source of light is coming from the Aurora on the top of the tree. The aurora started pulsing when we arrived and is still pulsing at the same rate. Maslin suspects the magic in the magicite is being drawn somewhere.
+
+With us is Elisha, Patchy, Drusilla and Taaveti, but it seems like Taaveti will be resistant to receiving orders.
+
+Getting closer to the tree, it is humongous. We passed through a portcullis into a battlefield with many snow-golems and Remorhaz. An Illusory Aleuwyn appears and taunts us but we won't turn around.
+
+Arrows not so effective against Remorhaz armor.
+
+Silver arrows were effective against Aleuwyn's ball of protection.
+
+We defeated his armies in the field and defeated his simulacrum. I was feebleminded
+
+
+
+
+
+
+
+
 
 
 .

@@ -39,7 +39,8 @@ Want to have:
 Brewers supplies 21st of Uktar
 
 
-- 13x silvered arrows
+- 8x silvered arrows
+- 2x Oil of Sharpness silvered arrows
 - 42x +1 arrows
 - 2x Arrows of flame     [[1d6]] fire damage
 - 10x +1 Rose Thorn Arrows
@@ -59,9 +60,9 @@ This thick, heavy spear is better wielded in two hands than one. When wielded in
 - 1 rapier
 - 1 silver longsword
 - 2 daggers
-- 1 sheild
+- 1 shield
 - Spyglass
-- Astolabe +1 Nav
+- Astrolabe +1 Nav
 - 10ft Chain
 - Grappling hook
 - 1 storm ray, Ray Bradbury, fly speed 60ft
