@@ -1748,6 +1748,46 @@ Silver arrows were effective against Aleuwyn's ball of protection.
 
 We defeated his armies in the field and defeated his simulacrum. I was feebleminded
 
+<hr>
+
+Aftermath of the battle: our forces are gathered up around the tree, preparing for attack/siege. The lowest branches are 60ft up. Some of the branches have wrapped themselves around eachother forming a cage up in the tree.
+
+Taaveti gives each of a us a piece of magic jerky. When torn apart, creates a hero's feast of long rest.
+
+The is a portculis keeping us out of the tree. Two stone golems are holding the portculis in place. One golem is  crumbling. The other golem is probably intact. We took the heart of the crumbled golem.
+
+Maslin firebolted some of the ice in front of the gate. The golems are stone. It awoke and started at us so we killed it.
+
+All of us working together were able to lift the portculis. As we came through, two large chariots started flying towards us. Behind the chariots are ice-elemental who may have thrown the chariots. Mechanical archers approach come out onto the balconies to shoot at us.
+
+I fired a lot of arrows invisibly from a rope trick. Necrotic damage worked against Aleuwyn. Aleuwyn fled.
+
+Aleuwyn cast prismatic wall which we were not able to cross. The wall disappeared after 10 minutes.
+
+The drones are shorter versions of elves. Their bodies are mostly stone but with metal too. Their faces are expressionless though. They are built in servants clothes. Magically powered but no magicite.
+
+Through one trapped door is an old inn. Through another door is a ruined giant conversatory. There are holes in the ceiling and craters in the floor. Half destroyed husks of scorpion-tanks and a mechanical boar that breathed fire at one point. Another metal carcass of a giant octopus. Frozen skeletons and bits of magicite litter the room.
+
+The skeletons are elven akin but there are are no extra rows of teeth. They don't show signs of ever have have grown. They are slightly taller.
+
+On some of the walls are small bots for bonsai trees. There are few weapon racks with inert automata. Another guard room has a nice spear. The shaft is very dark brown and the spearhead is sharp steel with streaks of blue. It is a mage- banes spear.
+
+I talked to the one remaining bonsai. It said all the other invaders were killed by the master. Many elves died in the invasion but the rest died as collateral. The bonsai is very nice and gave me a mini pomegranate. Remember to take this bonsai, Pommy, on the way home. The invaders were mindflayers. Another door where Aleuwyn went in to is locked.
+
+We explored the upstairs hallways. There is a planetarium and a statuary of all elven figures. Similar to those in the library and Oladon's tomb. Greenish robes and painted in vibrant clothes. Each statue has a hand out towards the view holding a sphere. Each globe is warm colored with some red.
+
+Touching an orb, shows a video on the ceiling showing these elves performing magnificent works of metal, capentry and molding wood by their hands in seconds. We see them crafting the automata. We start to feel memories in the back of our minds. They called this Methyr Tynylhoff, Arboria. The court eternal of Gwynnyfryd. The elves are called Eladrin and they came from all over Methyr Tynylhoff to study and work here. Gwynnyfryd had only one son Aleuwyn.
+
+We find another gallery displaying art. Mystical represents of the place Arboria held in the cosmos/planes. Arboria can be depicted as a floating island with a tree reaching into the sky. There may be other parts of the feywild here too. Lots of art.
+
+Patsy breaks down a door into a foyer over the portculis. Three more statues of Gwynnyfryd, Aleuwyn and Queen Creiddylad.
+
+I found a panel that slides into the wall and looks leads to a shaft. Nicolo investigated the shaft and found the sound of water moving through a big pipe. He reports also that the tunnel comes into a shaft where water is moving up.
+
+We then followed the stairs down from the foyer to another room with a large set of levers. More royal statues that are shattered and broken. Beyond is a large market style plaza. Neat buildings here is burnt to hell by mindflayer machines.
+
+<hr>
+
 
 
 

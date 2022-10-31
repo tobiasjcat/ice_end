@@ -42,7 +42,7 @@ Brewers supplies 21st of Uktar
 - 8x silvered arrows
 - 2x Oil of Sharpness silvered arrows
 - 42x +1 arrows
-- 2x Arrows of flame     [[1d6]] fire damage
+- 1x Arrows of flame     [[1d6]] fire damage
 - 10x +1 Rose Thorn Arrows
 -- """
 Rose Thorn Arrow: On hit extra 1d4 piercing from thorns and target must make a Strength or Dexterity save equal to the wielder’s spellcasting DC or be ensared for 1d4 rounds (can attempt to Str / dex to get free each round), 1d4 piercing damage each round the ensnared/restrained creature moves.
@@ -67,14 +67,18 @@ This thick, heavy spear is better wielded in two hands than one. When wielded in
 - Grappling hook
 - 1 storm ray, Ray Bradbury, fly speed 60ft
 - A handkerchief from Whistia
+- A magic jerky of a single long rest for yourself.
+- Mini-pomegranate from Pommy the bonsai tree. 
 
 - 2 potion of healing
 - 2 potions of greater healing
-- Oil of sharpness (minute to apply to five ammunition for + 3)
+- [x] Oil of sharpness (minute to apply to five ammunition for + 3)
 - Scroll of hold monster
 - Remember mindblade +2 wisdom save
 
 - 1/2 of an entire brew-house with Kristif. Blacksun Yarn.
+
+5/7 Health Level for Drusilla
 
 Collected some brightweed.
 
@@ -183,7 +187,7 @@ proficiency bonus to learning orcish language
 
 # Misc  
 - Level 10
-- 71,160 / 85,000 xp for 11 (last updated March 19th, 2022)
+- 78,160 / 85,000 xp for 11 (last updated Oct 30th, 2022)
 9sp / day for goblin lessons (Not active)
 6175
 
