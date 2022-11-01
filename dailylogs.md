@@ -1776,9 +1776,9 @@ I talked to the one remaining bonsai. It said all the other invaders were killed
 
 We explored the upstairs hallways. There is a planetarium and a statuary of all elven figures. Similar to those in the library and Oladon's tomb. Greenish robes and painted in vibrant clothes. Each statue has a hand out towards the view holding a sphere. Each globe is warm colored with some red.
 
-Touching an orb, shows a video on the ceiling showing these elves performing magnificent works of metal, capentry and molding wood by their hands in seconds. We see them crafting the automata. We start to feel memories in the back of our minds. They called this Methyr Tynylhoff, Arboria. The court eternal of Gwynnyfryd. The elves are called Eladrin and they came from all over Methyr Tynylhoff to study and work here. Gwynnyfryd had only one son Aleuwyn.
+Touching an orb, shows a video on the ceiling showing these elves performing magnificent works of metal, capentry and molding wood by their hands in seconds. We see them crafting the automata. We start to feel memories in the back of our minds. They called this Methyr Tynylhoff, Arborea. The court eternal of Gwynnyfryd. The elves are called Eladrin and they came from all over Methyr Tynylhoff to study and work here. Gwynnyfryd had only one son Aleuwyn.
 
-We find another gallery displaying art. Mystical represents of the place Arboria held in the cosmos/planes. Arboria can be depicted as a floating island with a tree reaching into the sky. There may be other parts of the feywild here too. Lots of art.
+We find another gallery displaying art. Mystical represents of the place Arborea held in the cosmos/planes. Arborea can be depicted as a floating island with a tree reaching into the sky. There may be other parts of the feywild here too. Lots of art.
 
 Patsy breaks down a door into a foyer over the portculis. Three more statues of Gwynnyfryd, Aleuwyn and Queen Creiddylad.
 
