@@ -55,7 +55,7 @@ Damage: 1d6 piercing
 Properties: Versatile (1d8), Special, Winged
 This thick, heavy spear is better wielded in two hands than one. When wielded in both hands, a boar spear gains the reach and wind-up properties in addition to the increased damage it gains from the versatile property.
 ```
-- 19x +2 arrows
+- 18x +2 arrows
 - 1 Longbow +1 (magically)
 - 1 rapier
 - 1 silver longsword
@@ -68,7 +68,7 @@ This thick, heavy spear is better wielded in two hands than one. When wielded in
 - 1 storm ray, Ray Bradbury, fly speed 60ft
 - A handkerchief from Whistia
 - A magic jerky of a single long rest for yourself.
-- Mini-pomegranate from Pommy the bonsai tree. 
+- Mini-pomegranate from Pommy the bonsai tree.
 
 - 2 potion of healing
 - 2 potions of greater healing
@@ -187,7 +187,7 @@ proficiency bonus to learning orcish language
 
 # Misc  
 - Level 10
-- 78,160 / 85,000 xp for 11 (last updated Oct 30th, 2022)
+- 80,160 / 85,000 xp for 11 (last updated Oct 30th, 2022)
 9sp / day for goblin lessons (Not active)
 6175
 

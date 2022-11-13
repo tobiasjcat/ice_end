@@ -1766,7 +1766,7 @@ Aleuwyn cast prismatic wall which we were not able to cross. The wall disappeare
 
 The drones are shorter versions of elves. Their bodies are mostly stone but with metal too. Their faces are expressionless though. They are built in servants clothes. Magically powered but no magicite.
 
-Through one trapped door is an old inn. Through another door is a ruined giant conversatory. There are holes in the ceiling and craters in the floor. Half destroyed husks of scorpion-tanks and a mechanical boar that breathed fire at one point. Another metal carcass of a giant octopus. Frozen skeletons and bits of magicite litter the room.
+Through one trapped door is an old inn. Through another door is a ruined giant conservatory. There are holes in the ceiling and craters in the floor. Half destroyed husks of scorpion-tanks and a mechanical boar that breathed fire at one point. Another metal carcass of a giant octopus. Frozen skeletons and bits of magicite litter the room.
 
 The skeletons are elven akin but there are are no extra rows of teeth. They don't show signs of ever have have grown. They are slightly taller.
 
@@ -1788,6 +1788,17 @@ We then followed the stairs down from the foyer to another room with a large set
 
 <hr>
 
+Down the stairs we came to a magically locked door. Taaveti worked on the door but that activated the three statues which attacked us.
+
+After defeating the statues which had downed Patsy, we entered the doorway into a very high-ceiling room of a marketplace. Spectral Eladrin perform daily life in the market. Aleuwyn in the corner asks us if we like the view of the past of this place.
+
+Maslin implored him not to fight. He can't allow us to keep our place here. Does he know that we are not in Arborea any more? He says the whole continent was brought from Arborea.
+
+He performed powerful forbidden magic to defeat the mindflayers, against his father's advice. He drew on the essence of all of the citizens of Methyr Tynylhoff. All creatures were killed including the mindflayers. The spell pushed us to this plane.
+
+Magicite is the essence of the dead Eladrin. They had no travelers because the Eladrin lived forever.
+
+The specters then attacked us claiming we were the invaders. I shot and destroyed Aleuwyn right away but the specters remained. Marlowe tried to convince them to stop attacking us by changing her appearance to that of an Eladrin.
 
 
 
@@ -1795,6 +1806,9 @@ We then followed the stairs down from the foyer to another room with a large set
 
 
 
+- [ ] nominate maslin for talking to Aleuwyn to talk him down from attacking us.
+- [ ] or Marlowe for trying to talk to the ghosts.
+- [ ] Marlowe for flame wall 
 
 
 .
