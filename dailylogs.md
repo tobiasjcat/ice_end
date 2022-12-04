@@ -1800,15 +1800,32 @@ Magicite is the essence of the dead Eladrin. They had no travelers because the E
 
 The specters then attacked us claiming we were the invaders. I shot and destroyed Aleuwyn right away but the specters remained. Marlowe tried to convince them to stop attacking us by changing her appearance to that of an Eladrin.
 
+<hr>
+
+We searched the place and found some cool bits.
+
+Some doors look like they have been used by heavy hands.
+
+We found an automated kitchen.
+
+There is a dumbwaiter that leads down to a storeroom.
+
+Downstairs there was a earthen tunnel connected to the tree.
+
+Also beyond the kitchen are a nother room full of automata. A bar, fancy plates and tables. Lots of open floor space. Attached are private meditation rooms. We took the guest book.
+
+There is an outline in the dust of a missing large automata.
+
+In another room off the market, we saw some tiles roped off next to a stairway going down. We went down and found 4 magical pilars holding up (?) the tiles. We played around with them for a while.
+
+We fought nine automata and a dragon. Automata were extra effective with thunder damage. The dragon hid around a corner
 
 
 
 
 
 
-- [ ] nominate maslin for talking to Aleuwyn to talk him down from attacking us.
-- [ ] or Marlowe for trying to talk to the ghosts.
-- [ ] Marlowe for flame wall 
+
 
 
 .
