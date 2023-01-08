@@ -1818,10 +1818,50 @@ There is an outline in the dust of a missing large automata.
 
 In another room off the market, we saw some tiles roped off next to a stairway going down. We went down and found 4 magical pilars holding up (?) the tiles. We played around with them for a while.
 
-We fought nine automata and a dragon. Automata were extra effective with thunder damage. The dragon hid around a corner
+We fought nine automata and a dragon. Automata were could take with thunder damage. The dragon hid around a corner and we killed it in the basement.
+
+We ate our jerky after the fight and a Hero's Feast.
+
+<hr>
+
+There was a guard station next to the outer wall of the circle around the inner tree. There are three levers: Automata, teleportation Circle, Capillary Route. They are up up down.
+
+    _____
+   / ___ \
+ _/ /   \ \
+|GR |   | |
+  \ \___/ /
+   \_____/
+
+
+We turned the automata switch down and the Capillary Route up. The Capillary Route activated a whooshing sound in the core of the donut. Sounds like water going up.
+
+We found three magically items: A longbow, leather pouldrons, light armor. We Identified them as Astrisroot Bow, Gambeson of the Mossy Grove, Snowpath Pauldron. I took the Bow.
+
+I found two secret doors. One leading into the core, one leading out of the outside ring. Neither is locked. The outside door opens into a large room, with a big circle etched into the ground. We turned the teleportation circle lever back on, but the circle is damaged and probably doesn't work.
+
+Maslin quickly restored the circle which is a bigger version of the spell Teleportation Circle. But it isn't able to be activated; it is being blocked.
+
+The circle may have been like a transit hub.
+
+The inner door leads to water running upward. Maslin stuck his head in and could breath and didn't get wet. Flipping the Capillary Route lever switches the direction the water is going to down.
+
+We turned it up, and then jumped into the capillary "elevator". We came out in a landing area in an open air throne room.
+
+The Throne is empty. There is a large courtyard with large piles of magicite and littler trees growing from the big tree.
+
+Aleuwyn is at the far edge of the courtyard performing some ritual on the storm. Aleuwyn is pulling energy out of the piles of magicite one at a time.
+
+As he was dying, Aleuwyn asked us to remember his people. Aleuwyn killed Oladon. Oladon was turned a mindflayer. Taaveti failed to stabilized him but says that his body could be of use.
+
+We looted the caste.
 
 
 
+
+
+- [ ] Combat: Dispell wall from Marlowe, storm on a storm for Kristif, Kristif's mass cure wounds, slaying Aleuwyn
+- [ ] Rollplay: Vicious mockery from Cecily "As sorry as you were for your people"
 
 
 

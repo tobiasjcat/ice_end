@@ -10,8 +10,8 @@
 2 / 4 Nature's veil (invisible until the start of next turn)  
 0 / 4 Tireless (1d8 plus wisdom +2 health)  
 
-84 hp max 10 hit dice  
-84 + 0 temp hp now and 9 hit dice used
+91 hp max 11 hit dice  
+91 + 0 temp hp now and 0 hit dice used
 
 Ray Bradbury has 27 hitpoints
 
@@ -55,8 +55,9 @@ Damage: 1d6 piercing
 Properties: Versatile (1d8), Special, Winged
 This thick, heavy spear is better wielded in two hands than one. When wielded in both hands, a boar spear gains the reach and wind-up properties in addition to the increased damage it gains from the versatile property.
 ```
-- 18x +2 arrows
+- 9x +2 arrows
 - 1 Longbow +1 (magically)
+- 1 Astrisroot Bow (magically +2 longbow)
 - 1 rapier
 - 1 silver longsword
 - 2 daggers
@@ -70,15 +71,13 @@ This thick, heavy spear is better wielded in two hands than one. When wielded in
 - A magic jerky of a single long rest for yourself.
 - Mini-pomegranate from Pommy the bonsai tree.
 
-- 2 potion of healing
+- 1 potion of healing [[2d4+2]]
 - 2 potions of greater healing
 - [x] Oil of sharpness (minute to apply to five ammunition for + 3)
 - Scroll of hold monster
 - Remember mindblade +2 wisdom save
 
 - 1/2 of an entire brew-house with Kristif. Blacksun Yarn.
-
-5/7 Health Level for Drusilla
 
 Collected some brightweed.
 
@@ -187,9 +186,8 @@ proficiency bonus to learning orcish language
 
 # Misc  
 - Level 10
-- 82,785 / 85,000 xp for 11 (last updated Oct 30th, 2022)
+- 85,000 / 100,000 xp for 12 (last updated Jan 7, 2023)
 9sp / day for goblin lessons (Not active)
-6175
 
 # DnD Beyond changes:
 - Base were too high for standard array. Int reduced to 8 from 10
@@ -229,6 +227,14 @@ Morale - [[1d20 + 4]]
 ## Potential stronghold
 ### Class improvement
 Your favored enemy has vulnerability to your attacks. 4 You can do this to a number of damage rolls equal to your stronghold level, after which you must take an extended rest to refresh this ability.
+
+## Drusilla
+6+3/7+3 health (plus 3 health from hero's feast)
+
+Daily spells
+0/3 Hunters
+3/3 Pass without trace
+2/3 Reaction shooting
 
 
 .
