@@ -1856,10 +1856,36 @@ As he was dying, Aleuwyn asked us to remember his people. Aleuwyn killed Oladon.
 
 We looted the caste.
 
+Kristif takes the diamonds of
+- 12x diamonds (1000gp each)
+- 9x black opal (1000gp each)
+- 6x blue sapphire (1000gp each)
+- 4x emerald (1000gp each)
+- 5x fire opal (1000gp each)
+- 7x opal (1000gp each)
+- 3x ruby (5000gp each)
+- 5x black sapphire (5000gp each)
+- Wall of Thorns spell scroll
+- Demiplane spell scroll
+- Power Word Stun spell scroll
+- Potion of Flying
+- Potion of Invisibility (2x)
+- Potion of Supreme Healing (x5)
+- 3x chests of fine fur pelts (300gp each)
+- 12x ornate wooden statues (1000gp each)
+- 1x platinum bell engraved with imagery of the king’s family (7500gp each)
+- 1x etched wooden medallion, inlaid with orichalcum filigree (7500gp each)
+- Rainbringer Magical staff
+- Swapping Shackles
+
+We debated how much gold to give to Roundtree.
+
+<hr>
 
 
 
 
+DM said we would probably get enough xp to get to level 12
 - [ ] Combat: Dispell wall from Marlowe, storm on a storm for Kristif, Kristif's mass cure wounds, slaying Aleuwyn
 - [ ] Rollplay: Vicious mockery from Cecily "As sorry as you were for your people"
 
