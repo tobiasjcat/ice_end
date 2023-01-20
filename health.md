@@ -10,8 +10,8 @@
 2 / 4 Nature's veil (invisible until the start of next turn)  
 0 / 4 Tireless (1d8 plus wisdom +2 health)  
 
-91 hp max 11 hit dice  
-91 + 0 temp hp now and 0 hit dice used
+98 hp max 12 hit dice 
+98 + 0 temp hp now and 0 hit dice used
 
 Ray Bradbury has 27 hitpoints
 

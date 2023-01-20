@@ -1854,7 +1854,7 @@ Aleuwyn is at the far edge of the courtyard performing some ritual on the storm.
 
 As he was dying, Aleuwyn asked us to remember his people. Aleuwyn killed Oladon. Oladon was turned a mindflayer. Taaveti failed to stabilized him but says that his body could be of use.
 
-We looted the caste.
+We looted the castle.
 
 Kristif takes the diamonds of
 - 12x diamonds (1000gp each)
@@ -1877,20 +1877,70 @@ Kristif takes the diamonds of
 - 1x etched wooden medallion, inlaid with orichalcum filigree (7500gp each)
 - Rainbringer Magical staff
 - Swapping Shackles
+- Mantle of the Mage
 
 We debated how much gold to give to Roundtree.
 
 <hr>
 
-
-
+Do we still have the Scepter of the Eternal sun? for the common fund. Yes
 
 DM said we would probably get enough xp to get to level 12
 - [ ] Combat: Dispell wall from Marlowe, storm on a storm for Kristif, Kristif's mass cure wounds, slaying Aleuwyn
-- [ ] Rollplay: Vicious mockery from Cecily "As sorry as you were for your people"
+- [ ] Rollplay: Vicious mockery from Kristif "As sorry as you were for your people"
+
+
+Taaveti wanted to raise Aleuwyn so she put him in a mirror in the bag of the holding. We don't want him to be raised. She wants to experiments on his body.
+
+The storm is breaking and the snow is melting.
+
+We also debated with Roundtree for how much of the spoils he would get. He had fought snow golems and ice elementals during the battle. His men are starting to loot minor objects. He was satisfied with 4 of the black sapphires worth 5000gp each.  
+
+Most of the groups we took with us are eager to go home.
+
+The KaraJhinzkha is elated that they now don't have to deal with these monsters.
+
+We are heading home with the group on horses. Navigation is easy now that we are going out of valley.
+
+We took Pommy with us as we began the journey. Our first destination is Suubaaneetai.
+
+On our way out we spotted a lot of wreckage: leveled ruins of villages of Arborea, burnt grown-wood houses, mindflayer war machinery. Also the immediacey of the effect of Aleuwyn's magic becomes apparent.
+
+We speculated about why there were magicite in the mines. Perhaps there was a concentration of Eladrin there. It doesn't seem like the mindflayers were turned into magicite. Perhaps the magicite in the mindflayer mines were under the control of the mindflayers.
+
+Taaveti invites us to the Owlbear. Drusilla is appreciative.
+
+We are welcomed to Suubaaneetai where there is a feast in our honor. The Algonans joined us, where this is a watershed moment for them.
+
+When we were a few days away from Camp Crystal Lake we got a sense of wrongness. Then we saw several large creatures teleported onto a hill in front of them. Cadaver Collectors. They are giant metal humanoids with bodies speared onto them. We see that the collectors are standing at attention.
+
+A human in robes stands between them like they respond to him. His clothes are nice but he looks like he has stopped keeping himself up. Instead of walking, he levitates on a mass of roiling bones.
+
+He says he is Bant and looking for Taaveti. He is angry to not have found Taaveti. He wants it related to the end of entropy. He leaves us with a skull to use to communicate. He teleports away with his Cadaver Collectors.
+
+Camp Crystal Lake is in the same state as when we left it.
+
+We made it back to Ice End safely.
 
 
 
+
+- [ ] Ice-end: A place for a new life.
+- [ ] Remember to make purchases at Suubaaneetai on the Item Prices Doc
+
+Level 12:
+- [x] +7 hp
+
+Options:
+- [ ] +2 dex :[
+- [ ] Fey touched
+- - +1 Wis
+- - Misty step
+- - 1st level spell (Silvery Barbs! Comprehend Languages, Sleep, Command)
+- [ ] Telepathic:
+- - +1 Wis
+- - Detect thoughts once a day
+- - One way telepathic communication
 
 
 
