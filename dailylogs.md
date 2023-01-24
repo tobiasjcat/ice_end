@@ -1922,6 +1922,9 @@ Camp Crystal Lake is in the same state as when we left it.
 
 We made it back to Ice End safely.
 
+<hr>
+
+
 
 
 
@@ -1930,13 +1933,14 @@ We made it back to Ice End safely.
 
 Level 12:
 - [x] +7 hp
+- [ ] unlearn absorb elements
 
 Options:
 - [ ] +2 dex :[
 - [ ] Fey touched
 - - +1 Wis
 - - Misty step
-- - 1st level spell (Silvery Barbs! Comprehend Languages, Sleep, Command)
+- - 1st level spell (Comprehend Languages, Sleep, Command)
 - [ ] Telepathic:
 - - +1 Wis
 - - Detect thoughts once a day

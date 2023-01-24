@@ -26,7 +26,7 @@ Race: Half-elf
 Occupation: Deacon of Ice End   
 Languages: Common    
 Age:  
-Notes: Prior of church of Erastil. Impressed into duty after annoying half-orc in Lothal. Doesn't like the cold. Scholarly appearance. Shrimpy. Red haired, green eyes. Looks like he hasn't slept well. Not entirely invested. Drinks heavily. Member of the FED-er-all-uh. Been in the colony for a few years. From the capitol of the city of Highmoore.   
+Notes: Prior of church of Erastil. Impressed into duty after annoying half-orc in Lothal. Doesn't like the cold. Scholarly appearance. Shrimpy. Red haired, green eyes. Looks like he hasn't slept well. Not entirely invested. Drinks heavily. Member of the FED-er-all-uh. Been in the colony for a few years. From the capitol of the city of Highmoore. Sent here by Tana for bothering her.   
 
 # Dunbar Tarpeius  
 Race: Hobgoblin    
@@ -88,7 +88,7 @@ Race: Human
 Occupation: Wheat Farmer  
 Languages:  
 Age:  
-Notes: Saved from wolf and goblins on day 1. Has a donkey named Orson. Dark skin, red hair. Fairly strong but not wolf-strong. In relationship with Dunbar. s   
+Notes: Saved from wolf and goblins on day 1. Has a donkey named Orson. Dark skin, red hair. Fairly strong but not wolf-strong. In relationship with Dunbar.    
 
 # Chief Grukgruk Trunkfist   
 Race: Bugbear  
@@ -419,7 +419,7 @@ Race: Human woman
 Occupation:  
 Languages:  
 Age:  
-Notes: Appears from slyvanos 
+Notes: Appears from slyvanos
 
 
 <!--
