@@ -395,7 +395,7 @@ Race:
 Occupation: Travelling bard  
 Languages:  
 Age:  
-Notes:  
+Notes: Unrequitedly into Maslin   
 
 
 # The Green Moss Society
@@ -403,7 +403,7 @@ Race:
 Occupation: Druidic adventuring party   
 Languages:  
 Age:  
-Notes:  
+Notes: Teetotallers   
 
 # Malkus Yellow-arrow
 Race: Halfling woman

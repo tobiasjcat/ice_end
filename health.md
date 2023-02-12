@@ -2,15 +2,15 @@
 
 ## 17 AC!
 
-1 / 4 1st level spell slots used  
+0 / 4 1st level spell slots used  
 0 / 3 2nd level spell slots used  
 0 / 2 3rd level spell slots used
 
 0 / 4 Favored foe (on a hit, add 1d6 dmg)
-2 / 4 Nature's veil (invisible until the start of next turn)  
+0 / 4 Nature's veil (invisible until the start of next turn)  
 0 / 4 Tireless (1d8 plus wisdom +2 health)  
 
-98 hp max 12 hit dice 
+98 hp max 12 hit dice
 98 + 0 temp hp now and 0 hit dice used
 
 Ray Bradbury has 27 hitpoints
@@ -89,7 +89,7 @@ Rocinante and Unbridled Dave and Sunbeam
 Marcellus Wallace and Gromit
 
 # Wealth
-140pp + 14812 gp + 7 sp + 66 cp - the friends we made along the way.
+140pp + 22612 gp + 7 sp + 66 cp - the friends we made along the way.
 250gp (0gp remaining) bond from Harbeck.
 740sp/annum
 
@@ -119,7 +119,6 @@ We each have one large peridot.
 
 ## Minor skills:
 - camouflage
-- <s>concealment</s>
 - surgery tools
 - stringed-instrument mastery
 
@@ -236,5 +235,8 @@ Daily spells
 3/3 Pass without trace
 2/3 Reaction shooting
 
+
+## Temple
+- Forest preserve with Maslin's academic tower. 
 
 .

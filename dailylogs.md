@@ -186,7 +186,7 @@ Maslin discovered small blue crab, they caught it and ate it. Had a nice beach p
 lots of blue crabs on a journey. Including some larger crabs. A king crab around a giant house sized crab. Found a blue and yellow wand/rod
 
 2st elient
-Tried to bribe harbeck. He told us to investigate the goblins to the south for diplomatic reasons. Thaddeus identified the Magicite that Maslin gave him. They implied they could charge us 700gp to make a potion from it.   
+Tried to bribe Harbeck. He told us to investigate the goblins to the south for diplomatic reasons. Thaddeus identified the Magicite that Maslin gave him. They implied they could charge us 700gp to make a potion from it.   
 
 Simone is working with Dunbar. Calvin Wodehouse is having a little trouble with the farm and church services. Calvin is a rapping preacher. Agreeing to work Janreth's fields too.
 
@@ -1924,27 +1924,60 @@ We made it back to Ice End safely.
 
 <hr>
 
+## 5th of Flamerule
+
+There is going to be a festival about our return and defeat of Aleuwyn. The Algonans are sticking around. They are appreciative. There is a victory parade through town. Drinking and feasting. It is a basic military parade.
+
+We make sure Drusilla and Patsy get attention. Honoring.
+
+We will make the Summer Solstice a new holiday in ice-end. "The Great Thaw".
+
+Maslin wants to gate studying the Methyr Tynylhoff behind teaching teaching at his new academy.
+
+The feasting is a little restrained. Lady Cliffsend praises our valor and prowess. Statues will be made for the four of us and those that helped. Lady Cliffsend offers favors and assistance.
 
 
+Maslin made a speech as well emphasizing peace.
+
+Thaddeus seems like he is interested in building a teleportation circle very urgently.
+
+Calvin, Margareta and Nicolo are there. Margareta is congratulatory to us that Aleuwyn is dead. Margereta is keeping away from Calvin. Margareta lives with Calvin but she acts differently than with us. She is playing the part of being Calvin's daughter.
+
+Mrs. Thorpe asks how we are doing? We are homesick and exhausted from travel and battle. She was concerned about us.
+
+Tenario is partying it up with the common folk. He's riding the high of the celebration. He's happy that the town is developing. His god, Aristle is of Civilization and we are 'civilizing' the area.
+
+Dorian is working with Harbeck as a steward. Kristif wants to recruit him.  
+
+Maslin embellishes the tale of what we did to Hazel Knotwrench. Maslin wants our names to ring out into Lothal. Kristif drunkenly attempts to help.
+
+The kenku and Blackblade do attend but don't get into as much of the revelry. They are making progress reconstructing the village. Blackblade tells us that the Kenku are running into financial trouble. Needs 3000gp to complete. Another 2000gp gets fortificaiton and weapons training. Maslin paid for it out of pocket.
+
+I ordered a temple for 8000gp - 10% for building off what Maslin started so 7200gp. The temple will take 100 days to construct and will be complete on the 15th of Marpenoth. The temple takes the form of a forest preserve.
+
+<hr>
+
+### Next time
+We're taking 10 weeks of downtime to get my temple complete and then maybe going to Lothal. We could also take a whole year off.
+
+
+### Todo:
+
+- [ ] Purchase both sets of 20x +2 arrows for 1000gp
+- [ ] Mantle of the mage is pretty good. Someone should use it.
+
+
+- [x] Order a temple fortress with Maslin's tower on 5th of Flamerule.
+- [ ] It completes at 15th of Marpenoth.
+- [ ] Read about concordance.
+- [ ] Name the temple.
 
 
 - [ ] Ice-end: A place for a new life.
 - [ ] Remember to make purchases at Suubaaneetai on the Item Prices Doc
 
-Level 12:
-- [x] +7 hp
-- [ ] unlearn absorb elements
 
-Options:
-- [ ] +2 dex :[
-- [ ] Fey touched
-- - +1 Wis
-- - Misty step
-- - 1st level spell (Comprehend Languages, Sleep, Command)
-- [ ] Telepathic:
-- - +1 Wis
-- - Detect thoughts once a day
-- - One way telepathic communication
+
 
 
 

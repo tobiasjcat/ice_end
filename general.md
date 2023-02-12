@@ -150,6 +150,7 @@ liquid or pour more until next dawn. Effectively can be used once a day
 
 ### Ten Candles
 
+```
  __       __
 /  \_____/  \
 \   -----   /
@@ -159,3 +160,5 @@ liquid or pour more until next dawn. Effectively can be used once a day
  |  -----  |
 /   _____   \
 \__/     \__/
+
+```
