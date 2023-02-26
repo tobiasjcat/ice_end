@@ -80,7 +80,7 @@ Notes: Normal clothes. Borrowing a sad looking horse. Rivalry with older brother
 Race: Human   
 Occupation: Herbalist    
 Languages: Common at least   
-Age:  
+Age:  Mid 60s
 Notes: Old woman. Herbalist. Married to Thaddeus. White hair but cutting green eyes.   
 
 # Lydia Varnhold   
@@ -422,14 +422,13 @@ Age:
 Notes: Appears from slyvanos
 
 
-<!--
-# Name (Player)
-Race:  
-Occupation:  
+# Stephano Ricci (Giovanni?)
+Race: Halfling / Thrikreen     
+Occupation: Aspiring sheep merchant   
 Languages:  
 Age:  
-Notes:  
--->
+Notes: Has a suspicious amount of keys.     
+
 
 <!--  # Name
 Race:  

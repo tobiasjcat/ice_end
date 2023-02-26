@@ -1932,14 +1932,13 @@ We make sure Drusilla and Patsy get attention. Honoring.
 
 We will make the Summer Solstice a new holiday in ice-end. "The Great Thaw".
 
-Maslin wants to gate studying the Methyr Tynylhoff behind teaching teaching at his new academy.
+Maslin wants to gate studying the Methyr Tynylhoff behind teaching teaching at his new academy. Will recruit in Lothal.
 
 The feasting is a little restrained. Lady Cliffsend praises our valor and prowess. Statues will be made for the four of us and those that helped. Lady Cliffsend offers favors and assistance.
 
-
 Maslin made a speech as well emphasizing peace.
 
-Thaddeus seems like he is interested in building a teleportation circle very urgently.
+Thaddeus seems like he is interested in building a teleportation circle very urgently and visiting the ruins of Methyr Tynylhoff.
 
 Calvin, Margareta and Nicolo are there. Margareta is congratulatory to us that Aleuwyn is dead. Margereta is keeping away from Calvin. Margareta lives with Calvin but she acts differently than with us. She is playing the part of being Calvin's daughter.
 
@@ -1957,14 +1956,56 @@ I ordered a temple for 8000gp - 10% for building off what Maslin started so 7200
 
 <hr>
 
+I remembered I bought 40x +2 arrows and +2 studded leather armor for 1000gp and 6000gp. I gave my old +1 studded leather armor to Drusilla.
+
+## 5th of Flamerule to 15th of Marpenoth
+
+I spotted a 5.5ft tall praying-mantis walking towards the market square. It's got a few rucksacks and a large feathered hat. People are reacting in fear. He pulls out some crates from his bags and sets up a little shop in town.
+
+Casting Comprehend Language reveals he doesn't speak any language.
+
+He has some mundane looking trinkets and more interesting items:
+- small ivory elephant
+- old battered helmet
+- 3 arrows set out on a red cloth, perfectly parallel. Heavy large arrowheads which look like they used to be shattered.
+- A small pouch with flames on it. When inspected, it contains caltrops made out of claws similar to his own claws. The caltrops are hot
+- A magical punching glove (a Cestus).
+- A rusty sword and scabbard.
+- A strange ring
+
+I bought the arrows and and caltrops.
+
+After we purchased our items, the merchant packed up and headed away quickly. Marlowe tailed him to where he disappeared around some boxes behind a warehouse. Mawlowe was questioned by a halfling merchant, Stephano Ricci, who was curious about why she was looking at the boxes. Stephano is interested in becoming a sheep merchant.
+
+Mordecai doesn't know Stephano or the Mantis.
+
+We cased the warehouse and spotted Stephano wearing the same hat as the Mantis. He left with a big backpack to Whitemoon Threads. Marlowe spotted him placing a pouch into a rucksack into a backpack.
+
+Marlowe and I spent a full night drinking at a Whitemoon, waiting for Stephano to talk to Mordecai so that we could ask Mordecai about.
+
+Harbeck said that the mantis wrote down the name Giovanni on the boat that delivered him here from one of the free cities. We tracked down the ship that Giovanni came on two days ago.
+
+The next morning, we attempted to confront Stephano in Whitemoon. We were able to confront him, but it did piss off Mordecai.
+
+On another day Kristif dueled Dorian and nearly killed him.
+
+
+As we put the finishing touches on Maslin and I's stronghold, a member of the green moss society, Abrahma Locke with his wolf Akira, seek our help. They are wounded and look like they have been travelling for some time. He says Oxfrills and Begga ran into undead far to the north of the Smallwood out in the tundra. Oxfrills and Begga are alive but taken. They are in some sort of temple.
+
+
+<hr>
+
+
+
+
+
 ### Next time
 We're taking 10 weeks of downtime to get my temple complete and then maybe going to Lothal. We could also take a whole year off.
 
 
 ### Todo:
 
-- [ ] Purchase both sets of 20x +2 arrows for 1000gp
-- [ ] Mantle of the mage is pretty good. Someone should use it.
+- [ ] Make sure Drusilla has studded leather +1 armor (AC 17)
 
 
 - [x] Order a temple fortress with Maslin's tower on 5th of Flamerule.
@@ -1974,7 +2015,6 @@ We're taking 10 weeks of downtime to get my temple complete and then maybe going
 
 
 - [ ] Ice-end: A place for a new life.
-- [ ] Remember to make purchases at Suubaaneetai on the Item Prices Doc
 
 
 

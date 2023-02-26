@@ -55,7 +55,9 @@ Damage: 1d6 piercing
 Properties: Versatile (1d8), Special, Winged
 This thick, heavy spear is better wielded in two hands than one. When wielded in both hands, a boar spear gains the reach and wind-up properties in addition to the increased damage it gains from the versatile property.
 ```
-- 9x +2 arrows
+- 49x +2 arrows
+- 3x shattering arrows ()
+- 1 pouch of fire-caltrops.
 - 1 Longbow +1 (magically)
 - 1 Astrisroot Bow (magically +2 longbow)
 - 1 rapier
@@ -89,7 +91,7 @@ Rocinante and Unbridled Dave and Sunbeam
 Marcellus Wallace and Gromit
 
 # Wealth
-140pp + 22612 gp + 7 sp + 66 cp - the friends we made along the way.
+140pp + 14012 gp + 7 sp + 66 cp - the friends we made along the way.
 250gp (0gp remaining) bond from Harbeck.
 740sp/annum
 
@@ -237,6 +239,6 @@ Daily spells
 
 
 ## Temple
-- Forest preserve with Maslin's academic tower. 
+- Forest preserve with Maslin's academic tower.
 
 .
