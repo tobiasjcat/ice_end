@@ -2022,17 +2022,41 @@ We made camp and set a watch.
 
 ## 18th of Marpenoth
 
-Kristif on first watch, spotted a 4 bird flock flying towards. They resemble eagles but with rotting skin. Kristif and I shot down 3 of them and then the rest of us took to the sky and followed it. It headed in a straight line northeast and then we shot it down, and remade camp. 
+Kristif on first watch, spotted a 4 bird flock flying towards. They resemble eagles but with rotting skin. Kristif and I shot down 3 of them and then the rest of us took to the sky and followed it. It headed in a straight line northeast and then we shot it down, and remade camp.
+
+After a rest, we remounted the rays and then while flying, we overheard a fight. Two humans were fighting  a skeletal knight. One is a wealthy the other is a porter carrying a massive backback.
+
+We meet Metellus the noble and Durante the porter and manservant. He recognizes Maslin and the Keswick family. He hails from the Free Cities. He adventures now by giving up his money.
+
+He is finely attired and carries bejeweled weapons. He has a ruby broach and an ascot.
+
+Metellus has been exploring the coast this way. He discovered that there was a place of power up the coastline. He is seeking his maid Fatelli, who fell into a good-sized cave below us and was taken. He would like us to assist him to find her, and in return will guide us to the place of power.  
+
+He leads us to the entrance to a sinkhole. He won't join us, but says that Fatelli is concealed. Maslin and I descended into the cave. Fatelli was terrified to make noise, so Maslin cast fly on all of us so that we could float out silently.      
+
+Fatelli describes a sentient bit of permafrost that would have ate us. She says the permafrost creature was perhaps using her for bait.
+
+In a nearby clearing, Durante and Fatelli quickly set up a glamorous camp. He offers us snifters of delicious whiskey.
+
+He tells us the undead are concentrated up the coast. He arrived a few weeks ago. Metellus converses with us for an hour out adventures. He has a ship off the coast now. He is interested in magicite to trade if it is viable.
+
+Metellus leads us to the place of power he talked about. He produces a whistle and uses it to call a horse.
+
+## 19th of Marpenoth
+
+Metellus leads us to a cliff and then a beach walk.
 
 
 
-
+<hr>
 
 
 
 
 
 ### Todo:
+
+- [ ] Remember that you have used 6 hit dice not reflected
 
 - [ ] Make sure Drusilla has studded leather +1 armor (AC 17)
 

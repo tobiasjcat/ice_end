@@ -430,26 +430,116 @@ Age:
 Notes: Has a suspicious amount of keys.     
 
 
-<!--  # Name
-Race:  
-Occupation:  
-Languages:  
-Age:  
-Notes:  
--->
+# Metellus  
+Race: Human  
+Occupation: Adventurer   
+Languages: Common  
+Age: Mid-fifties  
+Notes: Carries luxurious equipment. Dark skin and brown hair. Aged gracefully. Formerly a noble, diplomat, merchant and gambler.     
 
-<!--  # Name
-Race:  
-Occupation:  
-Languages:  
-Age:  
-Notes:  
--->
 
-<!--  # Name
-Race:  
+# Durante
+Race: Human  
+Occupation: Porter and manservant of Metellus  
+Languages: Common  
+Age:  
+Notes: Very strong but scrawny    
+
+
+# Fatelli
+Race: Human  
+Occupation: Maid to Metellus   
+Languages: Common  
+Age:  
+Notes: Beautiful blonde hair and pale skin. Cool and collected.   
+
+<!-- # NPC Name
+Race:     
 Occupation:  
 Languages:  
 Age:  
-Notes:  
--->
+Notes:   -->
+
+<!-- # NPC Name
+Race:     
+Occupation:  
+Languages:  
+Age:  
+Notes:   -->
+
+<!-- # NPC Name
+Race:     
+Occupation:  
+Languages:  
+Age:  
+Notes:   -->
+
+<!-- # NPC Name
+Race:     
+Occupation:  
+Languages:  
+Age:  
+Notes:   -->
+
+<!-- # NPC Name
+Race:     
+Occupation:  
+Languages:  
+Age:  
+Notes:   -->
+
+<!-- # NPC Name
+Race:     
+Occupation:  
+Languages:  
+Age:  
+Notes:   -->
+
+<!-- # NPC Name
+Race:     
+Occupation:  
+Languages:  
+Age:  
+Notes:   -->
+
+<!-- # NPC Name
+Race:     
+Occupation:  
+Languages:  
+Age:  
+Notes:   -->
+
+<!-- # NPC Name
+Race:     
+Occupation:  
+Languages:  
+Age:  
+Notes:   -->
+
+<!-- # NPC Name
+Race:     
+Occupation:  
+Languages:  
+Age:  
+Notes:   -->
+
+<!-- # NPC Name
+Race:     
+Occupation:  
+Languages:  
+Age:  
+Notes:   -->
+
+<!-- # NPC Name
+Race:     
+Occupation:  
+Languages:  
+Age:  
+Notes:   -->
+
+<!-- # NPC Name
+Race:     
+Occupation:  
+Languages:  
+Age:  
+Notes:   -->
