@@ -74,24 +74,25 @@ This thick, heavy spear is better wielded in two hands than one. When wielded in
 - Mini-pomegranate from Pommy the bonsai tree.
 
 - 1 potion of healing [[2d4+2]]
-- 2 potions of greater healing
+- 2 potions of greater healing [[4d4+8]]
 - [x] Oil of sharpness (minute to apply to five ammunition for + 3)
 - Scroll of hold monster
 - Remember mindblade +2 wisdom save
+- Scroll of Polymorph
 
 - 1/2 of an entire brew-house with Kristif. Blacksun Yarn.
 
 Collected some brightweed.
 
 We also now have 4 horses.
-2 brown and Al Capony is spotted and  
+2 brown and Al Capony is spotted a14012nd  
 Rocinante and Unbridled Dave and Sunbeam
 
 
 Marcellus Wallace and Gromit
 
 # Wealth
-140pp + 14012 gp + 7 sp + 66 cp - the friends we made along the way.
+140pp + 13562 gp + 7 sp + 66 cp - the friends we made along the way.
 250gp (0gp remaining) bond from Harbeck.
 740sp/annum
 

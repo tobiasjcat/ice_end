@@ -1990,17 +1990,46 @@ The next morning, we attempted to confront Stephano in Whitemoon. We were able t
 On another day Kristif dueled Dorian and nearly killed him.
 
 
-As we put the finishing touches on Maslin and I's stronghold, a member of the green moss society, Abrahma Locke with his wolf Akira, seek our help. They are wounded and look like they have been travelling for some time. He says Oxfrills and Begga ran into undead far to the north of the Smallwood out in the tundra. Oxfrills and Begga are alive but taken. They are in some sort of temple.
-
+As we put the finishing touches on Maslin and I's stronghold, a member of the green moss society, Abrahma Locke with his wolf Akira, seek our help. They are wounded and look like they have been traveling for some time. He says Oxfrills and Begga ran into undead far to the north of the Smallwood out in the tundra. Oxfrills and Begga are alive but taken. They are in some sort of temple.
 
 <hr>
 
+## 15th of Marpenoth
+
+Stronghold work complete. Kristif built a DADU for Elisha. I trained Marlowe in Nature.
+
+More from Abrama: Their group was adventuring but ran into spirits and bloated, stronger zombies. Bog undead. They were suddenly attacked in great numbers. Some kinds of undead, such as a vampire or Necromancer, could coordinate undead like this. Abrahma gives us the best directions he can.
+
+We depart for the area Abrahma describes: an old battlefield. It was a day and a half north-west of where they came out of the Smallwood. On the edge of a lake.
+
+A cold bog. There is a lot of harsh wind. The forest protects Ice End from these cold winds from the north. There are few winds here, it is cold here. There are lots of birds here. Little weasels and Marmots. Signs of moose, caribou, wolves and lynx.
+
+## 17th of Marpenoth
+
+We eventually find arctic dead marshes. There are craters in the ground with still pools of water. It is devoid of wildlife. It reeks of bog.
+
+Getting closer we see the mindflayer battle machines. This area shows signs of a battle instead of a massacre. In the craters are dead-half decomposing Eladrin. They died of unnatural causes and therefore weren't turned into magicite.
+
+Marlowe performed some surgery on the mindflayer and Eladrin corpes. The mindflayer corpses are more gelatinous that expected. The brain is protected by muscle and cartilage. Other than the octopus head, they are mostly humanoid.
+
+We start to hear disturbances in the water and corpses begin to emerge. I was cursed.
+
+We saw another large crashed Nautiloid. I tried to climb down it but slipped and fell. So we sent Nicolo in instead. Marlowe started to lose telepathic link with Nicolo when he got too deep in the ship. Nicolo does find tracks or trails of animated dead.
+
+We tracked the magical intensity to the northeast. The dead are generally moving northeast.
+
+We made camp and set a watch.
+
+## 18th of Marpenoth
+
+Kristif on first watch, spotted a 4 bird flock flying towards. They resemble eagles but with rotting skin. Kristif and I shot down 3 of them and then the rest of us took to the sky and followed it. It headed in a straight line northeast and then we shot it down, and remade camp. 
 
 
 
 
-### Next time
-We're taking 10 weeks of downtime to get my temple complete and then maybe going to Lothal. We could also take a whole year off.
+
+
+
 
 
 ### Todo:
@@ -2009,7 +2038,7 @@ We're taking 10 weeks of downtime to get my temple complete and then maybe going
 
 
 - [x] Order a temple fortress with Maslin's tower on 5th of Flamerule.
-- [ ] It completes at 15th of Marpenoth.
+- [x] It completes at 15th of Marpenoth.
 - [ ] Read about concordance.
 - [ ] Name the temple.
 
