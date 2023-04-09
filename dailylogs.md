@@ -2046,32 +2046,64 @@ Metellus leads us to the place of power he talked about. He produces a whistle a
 
 Metellus leads us to a cliff and then a beach walk.
 
-
+In the distance we see a massive ivory skull. The size of a mythical giant's. The skull is nearly as large as the cliff. It appears like the erosion that created the cliff has also revealed this skull and a few arms.
 
 <hr>
+
+It's cold here.
+
+To inspect the skull, I cast Pass Without Trace to sneak up on the skull. The Skull has tusks on the lower jaw. Metellus will not join us.
+
+There is an entrance in the mouth of the skull that we are going to try to enter. Kristif climbed up the rope from a Rope Trick to be the first in the skeletal cave.
+
+In the mouth is an alter with a lit brazier. There is stonework built into the skull. Stonework is unusual for this area.
+
+After Marlowe fell while climbing the rope, undead emerged from the ocean to attack us. One of the zombies had an ornamental sword with the gems removed and otherwise valueless. This zombie is a little more fresh and has fewer barnacles on it.
+
+On the dias of the alter, there is a script in very old common. "In veneration and memoriam of our fallen deity Sardush"
+
+Kristif opens the door to the next room and hears screaming. We think the light is causing the screams. Kristif turned a lot of the undead.
+
+Maslin sees paintings of a colossus emerging from the sea, the colossus getting hit with purple rays from sun of the second painting, and the skeleton of the colossus in it's current prone position, with and an ankh in the corner blasting it with rays.
+
+We see sea related imagery on religious objects in the room.
+
+I poured salt water from the alchemy jug into an empty fountain which had a righting feeling.
+
+We got into another big fight with a big group of undead. I went down but got brought back by Kristif.
+
+Beyond some metal doors is a natural forming pit. There is a whole above the ceiling. There is moss near the ankle deep water. Inside are unconscious Begga and Osfrils.
+
+There is a collasped wall the leads to a cavern that lead toward the ocean.
+
+There is a tomb where coffins face in the direction of a painted face sculpted out of the wall. The face resembles the face of the colossus in the painting. Kristif detected a magic key in the mouth of the sculpture. This key opens a secret compartment in the alter in the mouth of the colossus. The little key is a jet (stone) ankh. In the compartment is a larger ankh but it has lost its vigor and polish. It seems the magic in is deaded and has been drained. Kristif says there should have been magical energy in it but it has been expended.
+
+Begga is also drained. His eyes are sunken and dark. Osfrils is shaken and hurt and tries to care for Begga. She says they were exploring the area before the undead very suddenly arose and attacked them.
+
+We told them Abrama and Akira were okay. Osfrils says she was a cobra when the zombies strangled her and captured her instead of killing her. They didn't see the boneclaw monster than attacked and knocked my out.
+
+The larger ankh is a powerful artifact which has lost its power. Originally, it would have been able to channel enough power to kill a god. 
+
+
 
 
 
 
 
 ### Todo:
+- [ ] *Marlowe* for Combat MVP. Fireball, necrotic save, and Derwood save.
+
 
 - [ ] Remember that you have used 6 hit dice not reflected
-
 - [ ] Make sure Drusilla has studded leather +1 armor (AC 17)
-
-
-- [x] Order a temple fortress with Maslin's tower on 5th of Flamerule.
-- [x] It completes at 15th of Marpenoth.
 - [ ] Read about concordance.
 - [ ] Name the temple.
-
-
 - [ ] Ice-end: A place for a new life.
+- [ ] Get a silvered rapier
 
 
 
 
 
 
-.
+<!-- . -->

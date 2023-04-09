@@ -403,7 +403,7 @@ Race:
 Occupation: Druidic adventuring party   
 Languages:  
 Age:  
-Notes: Teetotallers   
+Notes: Teetotallers. Begga, Abrama, the wolf Akira and led by Osfrils.    
 
 # Malkus Yellow-arrow
 Race: Halfling woman

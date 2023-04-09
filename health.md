@@ -55,7 +55,7 @@ Damage: 1d6 piercing
 Properties: Versatile (1d8), Special, Winged
 This thick, heavy spear is better wielded in two hands than one. When wielded in both hands, a boar spear gains the reach and wind-up properties in addition to the increased damage it gains from the versatile property.
 ```
-- 49x +2 arrows
+- 43x +2 arrows
 - 3x shattering arrows ()
 - 1 pouch of fire-caltrops.
 - 1 Longbow +1 (magically)
