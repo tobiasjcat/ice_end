@@ -451,7 +451,7 @@ Race: Human
 Occupation: Maid to Metellus   
 Languages: Common  
 Age:  
-Notes: Beautiful blonde hair and pale skin. Cool and collected.   
+Notes: Beautiful blonde hair and pale skin. Cool and collected. Blurnsday.   
 
 <!-- # NPC Name
 Race:     

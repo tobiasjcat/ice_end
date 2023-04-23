@@ -2074,7 +2074,7 @@ We got into another big fight with a big group of undead. I went down but got br
 
 Beyond some metal doors is a natural forming pit. There is a whole above the ceiling. There is moss near the ankle deep water. Inside are unconscious Begga and Osfrils.
 
-There is a collasped wall the leads to a cavern that lead toward the ocean.
+There is a collapsed wall the leads to a cavern that lead toward the ocean.
 
 There is a tomb where coffins face in the direction of a painted face sculpted out of the wall. The face resembles the face of the colossus in the painting. Kristif detected a magic key in the mouth of the sculpture. This key opens a secret compartment in the alter in the mouth of the colossus. The little key is a jet (stone) ankh. In the compartment is a larger ankh but it has lost its vigor and polish. It seems the magic in is deaded and has been drained. Kristif says there should have been magical energy in it but it has been expended.
 
@@ -2082,18 +2082,23 @@ Begga is also drained. His eyes are sunken and dark. Osfrils is shaken and hurt 
 
 We told them Abrama and Akira were okay. Osfrils says she was a cobra when the zombies strangled her and captured her instead of killing her. They didn't see the boneclaw monster than attacked and knocked my out.
 
-The larger ankh is a powerful artifact which has lost its power. Originally, it would have been able to channel enough power to kill a god. 
+The larger ankh is a powerful artifact which has lost its power. Originally, it would have been able to channel enough power to kill a god.
 
+<hr>
 
+We made camp outside and let Osfrils and Begga recover. Metellus, Fatelli and Durante arrive. Maslin commented that the skeletons seemed to remember that they probably remembered their tactics from when they were alive. We concealed from him that we did take the artifact that he was looking for.
+
+We invited him to Ice-end. Maslin schmoozed with Metellus over Brandy. Metellus tells of his younger days. He fought Manticores in the Sunset Covers beyond the Free Cities. He says he fought a growing Kraken. They seem embellished.
+
+Maslin feels drawn in and being charmed. Maslin told Metellus about the ankh artifact we found but refused to give it up or trade for it.
+
+As he begins to pack up, I noticed the sound of approaching wolves. I woke everyone up and we prepared to fight. 
 
 
 
 
 
 ### Todo:
-- [ ] *Marlowe* for Combat MVP. Fireball, necrotic save, and Derwood save.
-
-
 - [ ] Remember that you have used 6 hit dice not reflected
 - [ ] Make sure Drusilla has studded leather +1 armor (AC 17)
 - [ ] Read about concordance.
