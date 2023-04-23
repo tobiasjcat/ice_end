@@ -2088,24 +2088,58 @@ The larger ankh is a powerful artifact which has lost its power. Originally, it 
 
 We made camp outside and let Osfrils and Begga recover. Metellus, Fatelli and Durante arrive. Maslin commented that the skeletons seemed to remember that they probably remembered their tactics from when they were alive. We concealed from him that we did take the artifact that he was looking for.
 
-We invited him to Ice-end. Maslin schmoozed with Metellus over Brandy. Metellus tells of his younger days. He fought Manticores in the Sunset Covers beyond the Free Cities. He says he fought a growing Kraken. They seem embellished.
+We invited him to Ice-end. Maslin schmoozed with Metellus over Brandy. Metellus tells of his younger days. He fought Manticores in the Sunset Coves beyond the Free Cities. He says he fought a growing Kraken. They seem embellished.
 
 Maslin feels drawn in and being charmed. Maslin told Metellus about the ankh artifact we found but refused to give it up or trade for it.
 
-As he begins to pack up, I noticed the sound of approaching wolves. I woke everyone up and we prepared to fight. 
+As he begins to pack up, I noticed the sound of approaching wolves. I woke everyone up and we prepared to fight.
+
+Metellus attacked us with the wolves! He seems resistant to necrotic damage and he has little fangs on his upper teeth. Maslin was still charmed by Metellus and didn't attack him directly. Radiant damage wasn't extra damaging.
+
+From Metellus' camp we recovered a bag of holding with fancy furnishings for a camp.
+
+They tried to escape but we were able to catch, kill and trap the soul of Durante. We asked it tactical questions.
+
+1. Metellus has made his lair in a cave behind a waterfall, at the foot of mountains near the oceans.
+2. He is weakened by the sunlight and the blessings of the gods. He can only be killed by being staked though the heart.
+3. He can be a bat, and his fallen enemies can be brought back as thralls. He can control beasts of the night. He can move as a spider on it's web
+4. He is a collector of wondrous and fantastic items, old and new.
+5. We looked inside his wet cavern lair. There is a waterfall even on the sides leaving an island in the middle. There is a boat anchored near the rock. There is a tunnel leading out. There is a fancy dias with red and blue cloth. And a fancy coffin with gold and jewels. There are small tunnels leading out as well. We hear the sounds of the waterfall.
+6. Metellus had nothing to do with the undead in the temple.
+
+## 23rd of Marpenoth
+We spent the last four days returning to Ice-end.
+
+Returned to Ice-end without much difficulty. The Green Moss society is happy to reunited. Abrahma restated the skeletons did seem to be organized.
+
+Interviewing the town:
+- Mordecai recognized the liquor bottles. The brandy is from Corvail but the others are from the Republic of Ostrovia. Ostovia is west of the Sunset coves.
+- We asked Tenorio to ABC (Always Be Consecrating). Tenorio says there are many types of vampires but holy water is always helpful. We asked him to equip the fedorati with bottles of holy water. They are undead.
+- Drusilla suggests the lair is in the mountain range to North of Ice-end.
+- No one has heard of Sardush.
+- We reported our adventure to Harbeck.
+- Lady Cliffsend says the Ostrovia has many wealthy individuals. The Free Cities often fight with eachother. Ostrovian crossbowmen often make good solders and marines. She's heard of Strabo, thinks it may be one of the wealthy merchant families.
 
 
+An envoy of the KaraJhinzkha arrived: A halfling and a human rider. The have a message from Yellow Arrow that wishes us well, and thanks us for the assistance. It is an update that the war with the Neiryet is going well but they are asking for assistance. She would like to meet with us in Subinity. We reply that we have our own issues to deal with. The KaraJhinzkha want to wrap us their campaign before the end of spring.
+
+<hr>
+
+Our plan is to scout for the vampire's lair. Also make a plan to go to Subinity. 
 
 
 
 ### Todo:
+- [ ] Marlow for fire wall attack and critical blast rolls and soul cage
+
+
 - [ ] Remember that you have used 6 hit dice not reflected
 - [ ] Make sure Drusilla has studded leather +1 armor (AC 17)
 - [ ] Read about concordance.
 - [ ] Name the temple.
 - [ ] Ice-end: A place for a new life.
 - [ ] Get a silvered rapier
-
+- [ ] Don't take Locate Creature for level 13. You'll get it as gloom stalker magic.
 
 
 

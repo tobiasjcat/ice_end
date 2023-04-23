@@ -132,7 +132,7 @@ Languages:
 Age:  
 Notes: Drusilla left a large arrow in him    
 
-# Annelida  
+# Annelida (they/them)  
 Race: Worm-humanoid  
 Occupation: Scholar   
 Languages: Common at least    
@@ -430,12 +430,12 @@ Age:
 Notes: Has a suspicious amount of keys.     
 
 
-# Metellus  
+# Metellus Strabo
 Race: Human  
 Occupation: Adventurer   
 Languages: Common  
 Age: Mid-fifties  
-Notes: Carries luxurious equipment. Dark skin and brown hair. Aged gracefully. Formerly a noble, diplomat, merchant and gambler.     
+Notes: Carries luxurious equipment. Dark skin and brown hair. Aged gracefully. Formerly a noble, diplomat, merchant and gambler. Probably a vampire.     
 
 
 # Durante
