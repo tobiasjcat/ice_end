@@ -2110,7 +2110,7 @@ They tried to escape but we were able to catch, kill and trap the soul of Durant
 ## 23rd of Marpenoth
 We spent the last four days returning to Ice-end.
 
-Returned to Ice-end without much difficulty. The Green Moss society is happy to reunited. Abrahma restated the skeletons did seem to be organized.
+Returned to Ice-end without much difficulty. The Green Moss Society is happy to reunited. Abrahma restated the skeletons did seem to be organized.
 
 Interviewing the town:
 - Mordecai recognized the liquor bottles. The brandy is from Corvail but the others are from the Republic of Ostrovia. Ostovia is west of the Sunset coves.
@@ -2125,19 +2125,49 @@ An envoy of the KaraJhinzkha arrived: A halfling and a human rider. The have a m
 
 <hr>
 
-Our plan is to scout for the vampire's lair. Also make a plan to go to Subinity. 
+Our plan is to scout for the vampire's lair. Also make a plan to go to Subinity.
+
+A scholar passing through Ice-end, Bartholomew, has done a good amount of research about necromancy. He tells us there are many kinds of vampires. Their powers are dependent on their bloodline, lineage. Sometimes it is dependent on their emotions or feelings when they were killed. Reportedly, the most powerful are the True Vampires. They can turn people, but don't pass on their purity. It takes unholy amounts of blood sacrifice to create a True Vampire. You don't have to be a True Vampire to turn victims. Vampires need blood of the living. They usually choose intellect and nutrition of humanoids. They are truly unholy and shy away from the touch of the gods. Holy water can damage and slow their regeneration. Vampires need to return to their coffin. Vampires need to eat people. They do have the ability to charm. Were-bears can't convert someone by scratching them. Vampires do need to be invited to enter homes/buildings.
+
+Fatelli was turned by Metellus. Killing Metellus will Fatelli.
+
+Abrahma has recovered and is grateful to be reunited.
+
+Each our of blessing water, 5gp of powdered silver can be consumed to create a vial of holy water.
+
+I bought water arrows to have a 5 made holy.
+2d6 radiant damage only to fiends and undead.
+20/60 range.
+
+Kristif spent the day making holy water.
+
+
+## 24th of Marpenoth
+We are headed out to the northeast to find the lair. I tracked various animals and found aggressive bats. I spoke to some plants who reported some nearby plants are withered and in pain.  
+
+We found the cave by the waterfall! There's a crude wooden dock by the entrance. No boat is there now, but the dock has been used relatively soon. There is a cliffside that goes up 40ft. The tunnels would be at the top of the cliff.
+
+At the top of the cliff, we see small tunnels created by erosion but they are very small. We spend an hour filling in holes.
+
+We found a ward at the mouth of the cave. We passed without trace and sneaked into the tunnel while walking on the water.
+
+In side is the island as described in the soul trap. Two elementals are guarding the coffin and rug. A wind elemental and an armored water elemental. We killed them.
+
+Maslin found a false bottom in a pool in the cave. It was a stone drawer. I pryed it open and inside were several gems, an ornate gold dagger. Also a few broken vials dribbling liquids outside which I was able to catch. The ornate has the same label as the bottle of red wine. The Strabo house. The dagger might be ritualistic or magical.
+
+Kristif finds a fake stalactite containing a bag containing scrolls and books. Some scrolls are magical but others are letters or paperwork. One of the books is a ledger. Another book is stamped with the Strabo house and is locked.
+
+The ledger has an inventory and it seems like there are more things here in the cave.
+
+I shot Metellus with a holy water arrow and then a real arrow and killed him. When he died, the others disappeared too
 
 
 
 ### Todo:
-- [ ] Marlow for fire wall attack and critical blast rolls and soul cage
-
-
-- [ ] Remember that you have used 6 hit dice not reflected
+- [ ] Identify the dagger and potions from the secret drawer.
 - [ ] Make sure Drusilla has studded leather +1 armor (AC 17)
 - [ ] Read about concordance.
 - [ ] Name the temple.
-- [ ] Ice-end: A place for a new life.
 - [ ] Get a silvered rapier
 - [ ] Don't take Locate Creature for level 13. You'll get it as gloom stalker magic.
 
