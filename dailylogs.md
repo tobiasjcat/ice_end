@@ -2142,7 +2142,7 @@ I bought water arrows to have a 5 made holy.
 Kristif spent the day making holy water.
 
 
-## 24th of Marpenoth
+## 24th of Marpenoth 1062
 We are headed out to the northeast to find the lair. I tracked various animals and found aggressive bats. I spoke to some plants who reported some nearby plants are withered and in pain.  
 
 We found the cave by the waterfall! There's a crude wooden dock by the entrance. No boat is there now, but the dock has been used relatively soon. There is a cliffside that goes up 40ft. The tunnels would be at the top of the cliff.
@@ -2161,15 +2161,35 @@ The ledger has an inventory and it seems like there are more things here in the 
 
 I shot Metellus with a holy water arrow and then a real arrow and killed him. When he died, the others disappeared too
 
+<hr>
+
+See Fatelli's journal in general.md
+
+## 26th Marpenoth 1062
+
+I spotted half dozen flying creatures, mounted storm rays. Between them is a large burning four-winged humanoid. We tried to make it to our the Wildwood.
+
+The burning man is carrying a glaive and a bow in each hand. "Feel the embrace of fire and embrace" but we made it to our strongholds. The burning angel thing is not Firefist, but considers Firefist saintly.
+
+Blackblade reported that the kenku were under attack as well. They were able to repel the attack with the help of the wolves in the stronghold, Wildwood. But he saw a another detachment heading towards ice end.
+
+Arriving to town, we spotted Nieryet attacking. Riders and infantry accompanied by another fire angel are attempting to force their way into Marlowes house. We won the fight and killed all the raiders but Calvin was nearly killed by a fireball.
+
+Margareta said that they weren't going to kill her because "Father" wouldn't have liked that. She says that Marlowe was to die. She says Father is trying to extract vengeance from Marlowe. Marlowe says Calvin would be willing to lay down his life for her. Marlowe expressed interest in leveling the city of Tumen Ord. Margareta recommends gaining vengeance over time.
+
+<hr>
 
 
 ### Todo:
+- [ ] Var galaria are allies with Nieryet
+- [ ] Read kingdoms and factions
+- [ ] anti-proficiency in exchange for minor skill
 - [ ] Identify the dagger and potions from the secret drawer.
 - [ ] Make sure Drusilla has studded leather +1 armor (AC 17)
 - [ ] Read about concordance.
-- [ ] Name the temple.
-- [ ] Get a silvered rapier
-- [ ] Don't take Locate Creature for level 13. You'll get it as gloom stalker magic.
+- [x] Name the temple. Wildwood
+- [x] Get a silvered rapier
+- [x] Don't take Locate Creature for level 13. You'll get it as gloom stalker magic.
 
 
 

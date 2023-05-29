@@ -162,3 +162,12 @@ liquid or pour more until next dawn. Effectively can be used once a day
 \__/     \__/
 
 ```
+
+### Fatelli’s Journal, Found 24th of Marpenoth 1062
+*The first entry is dated some 45 years ago (1017).*
+
+```
+I write this on the eve of my first day in service to Lord Metellus Strabo, Viscount of Ostrava. It’s a wondrous opportunity, to finally live in a house of luxury, even though I work to keep the manor clean and orderly. It’s still a far cry from where I grew up, and I am so far treated very well. I have yet to meet the Lord himself, but the other ladies of the house say that he is quite handsome and kind, though one of the other maids whispered carefully that he has a certain hunger in his gaze… I know not what she meant by this, and she did not wish to elaborate.
+```
+
+*A later entry gushily describes Fatelli’s first meeting with Metellus. She was quite taken by him immediately. After several more entries, they abruptly stop for nearly five years. After that point, it is clear that Fatelli was transformed into a vampire, but it seems that the process was a willing one, though one that took her some time to fully realize the implications of. Nonetheless, she grew close with Metellus, and describes the two falling in love. As a vampire, she was able to learn many things, including self-defense in hand-to-hand combat (which she proved extremely adept at) and archeology.*

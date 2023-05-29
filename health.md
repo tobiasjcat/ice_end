@@ -53,7 +53,7 @@ Damage: 1d6 piercing
 Properties: Versatile (1d8), Special, Winged
 This thick, heavy spear is better wielded in two hands than one. When wielded in both hands, a boar spear gains the reach and wind-up properties in addition to the increased damage it gains from the versatile property.
 ```
-- 37x +2 arrows
+- 30x +2 arrows
 - 15 water arrows (see magic items)
 - 5 holy water arrows (2d6 radiant damage only to fiends and undead)
 - 3 rope arrows
@@ -62,6 +62,7 @@ This thick, heavy spear is better wielded in two hands than one. When wielded in
 - 1 Longbow +1 (magically)
 - 1 Astrisroot Bow (magically +2 longbow)
 - 1 rapier
+- 1 Keen rapier (+2, crits on 19 or 20)
 - 1 silver longsword
 - 2 daggers
 - 1 shield
@@ -76,7 +77,8 @@ This thick, heavy spear is better wielded in two hands than one. When wielded in
 
 
 - 1 potion of healing [[2d4+2]]
-- 2 potions of greater healing [[4d4+8]]
+- 1 potions of greater healing [[4d4+8]]
+- 1 potion of supreme healing [[10d4+20]]
 - [x] Oil of sharpness (minute to apply to five ammunition for + 3)
 - Scroll of hold monster
 - Remember mindblade +2 wisdom save
