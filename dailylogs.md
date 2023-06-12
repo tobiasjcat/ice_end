@@ -70,7 +70,7 @@ Having acquired four new interns overnight, the Spinks Estate is growing rapidly
 Confident that Rikki has all the help she needs laying fertilizer for now, I joined up with the rest of the do-crew and we visited the Herbalist Elena Thorpe. While a thorny character herself, she is married to the delightful gnome Thaddeus Jim-jar Thorpe. I am very glad I have someone to practice my gnomish with. Yip-yip indeed Thaddeus.    
 As well as discovering a new friend, Elena's property revealed a well-kept garden. In it, Thaddeus was able to identify some strange plants for us including Devil's Club, Bright-weed and frost-flowers. Thaddeus also placed a bounty on some tundra-cress on the north side of the river from town.  
 Maslin approached me asking for an opportunity to study under me to learn which plants are edible. I don't blame him for not instinctively knowing that a barbed and thorny plant like devil's club actually tastes a lot like bread if prepared correctly. However this puts me in the awkward position of somehow ordering His-Highness around. He agreed to an unpaid internship and even offered coin in exchange for knowledge but I turned him down. His relatives my have a problem with such a one-sided deal. Perhaps I can convince him later to share some land with the Spinks Estate in exchange for my training and a share of the crops grown on his land.      
-Still, I feel uncomfortable asking a noble to behave like a disiplined student so I promoted Maslins former servant, Allen, to the title of foreman. Hopefully he will know the right way to encourage Maslin to work and learn.   
+Still, I feel uncomfortable asking a noble to behave like a disciplined student so I promoted Maslins former servant, Allen, to the title of foreman. Hopefully he will know the right way to encourage Maslin to work and learn.   
 
 ## Blurnsday, Eleasias 14, (1059/8/14)
 The Spinks family somehow missed the invitation from Marlow and Calvin for dinner. Preston acted out for a while until we learned the guest list consisted  of the religious in our community. I'm sure we dodged the arrow from the archers Tenorio, Janreth and Kristif. To my dismay, Preston was brought to the brink of tears by Nicolo's lovely poem, recited for us by the other, more impish Nicolo later that night. We should engrave a plate of "The Lonely Butterfly" so that we can print copies. Tenorio was so moved he drank several bottles of wine in anticipation, during the performance, and after hearing the poem.  
@@ -1420,7 +1420,7 @@ There are four large statues in a fountain with constantly flowing alcohol liqui
 
 We are kept waiting for a few hours before Skied Firefist Neiryeet arrives. Several slaves haul in a throne made of bones, stone and iron.  
 Firefist is a tall green-skinned half-orc with tinges of red and orange near where his veins. Dark red hair and eyes. Dressed in a fur half-tunic. Total beef-castle. He wears an antler crown.  
-The Tumen-orc is not impressed with us. He wants us to fight at a festival honoring gock-teska tomorrow. We will be fighting five of Firefists champion at the circle of blood. We will be staying overnight at the Gilded Gauntlet.   
+The Tumen-orc is not impressed with us. He wants us to fight at a festival honoring gock-teske tomorrow. We will be fighting five of Firefists champion at the circle of blood. We will be staying overnight at the Gilded Gauntlet.   
 The inn which is near the palace, is quiet but very nicely appointed. We are allocated a fine suite.
 The fight turned out to be a lively game of capture the flag. After we starting winning the fight, Firefist entered the field and attacked us.
 <hr>
@@ -2114,7 +2114,7 @@ Returned to Ice-end without much difficulty. The Green Moss Society is happy to 
 
 Interviewing the town:
 - Mordecai recognized the liquor bottles. The brandy is from Corvail but the others are from the Republic of Ostrovia. Ostovia is west of the Sunset coves.
-- We asked Tenorio to ABC (Always Be Consecrating). Tenorio says there are many types of vampires but holy water is always helpful. We asked him to equip the fedorati with bottles of holy water. They are undead.
+- We asked Tenorio to ABC (Always Be Consecrating). Tenorio says there are many types of vampires but holy water is always helpful. We asked him to equip the Fedorati with bottles of holy water. They are undead.
 - Drusilla suggests the lair is in the mountain range to North of Ice-end.
 - No one has heard of Sardush.
 - We reported our adventure to Harbeck.
@@ -2173,24 +2173,69 @@ The burning man is carrying a glaive and a bow in each hand. "Feel the embrace o
 
 Blackblade reported that the kenku were under attack as well. They were able to repel the attack with the help of the wolves in the stronghold, Wildwood. But he saw a another detachment heading towards ice end.
 
-Arriving to town, we spotted Nieryet attacking. Riders and infantry accompanied by another fire angel are attempting to force their way into Marlowes house. We won the fight and killed all the raiders but Calvin was nearly killed by a fireball.
+Arriving to town, we spotted Nieryet attacking. Riders and infantry accompanied by another fire angel are attempting to force their way into Marlowe's house. We won the fight and killed all the raiders but Calvin was nearly killed by a fireball.
 
 Margareta said that they weren't going to kill her because "Father" wouldn't have liked that. She says that Marlowe was to die. She says Father is trying to extract vengeance from Marlowe. Marlowe says Calvin would be willing to lay down his life for her. Marlowe expressed interest in leveling the city of Tumen Ord. Margareta recommends gaining vengeance over time.
 
 <hr>
 
+We officially founded the Keswick Royal Adventuring Party as an organization.
+
+Calvin is still unconscious. Nicolo is traumatized. There is not much damage to the rest of the town. Lady Cliffsend is upset and wants an explanation from us. Lady Cliffsend wants to protect the town and isn't necessarily in favor of war. She approves of conscripting volunteers from Ice-end but she will keep the Fedorati in town.
+
+## 26th of Marpenoth - 6th Uktar 1062
+
+Recovering in town.
+
+## 6th - 16th of Uktar 1062
+
+Kristif, Maslin and I ventured of to Subinity while Marlowe stayed in town with her family. It is cold and barren here. It is lean times here.
+
+Subinity is still a vast collection of yurts, tents and carts. We spot a wounded and bandaged band of riders approaching. We parked out of town so that we don't seem like Neiryet riders. We are ushered in to the chief's massive yellow and gold tent.
+
+The halfling chief Yellow-arrow is weary but brightens when we see you. We discuss business in her courtroom. She asks about the other entities. She says the entities are new. She says Firefist were worshiping the eternal sun, gock teske, but now gock teske is able to send entities. Subinity is getting pushed south.
+
+They are having trouble defending the area they hold, now. The best time for riding against Tumen Ord is late spring. The Neiryet had been fighting alongside Hobgoblins from Var Galaria. Subinity is still able to trade but it's harder.
+
+The hobgoblins don't ride horses but are strong, disciplined and committed fighters.
+
+We made a plan to divert our shares of the magicite to Subinity to support them. We also pledge to return to Subinity in the early spring at the latest. Yellow-arrow tells us that the fighting will probably die in the winter.
+
+## 16th - 26th Uktar 1062
+Returning to Ice-end.
+
+Cliffsend is willing to do the same agreement that got us here, land for settlement, to bring others here. She wants to create for settlements here too.
+
+We talked to Dunbar about where he came from, Var Galaria. He grimaced when we mentioned it. He says Var Galaria is far from Lothal. It took months to get to Lothal. They call themselves The Imperial Union of Var Galaria. They also call themselves a republic of all goblin kinds. Goblins, hobgoblin and bugbears. Supposedly equal representation, but everyone knows hobgoblins run the show. Their army is the Imperial Legion which is here. The troops are some of the best in the world. Var Galaria is larger than Lothal in land and especially numbers. But they are distant from Sylvanos. The full legion is not here, there is always fighting back at the homeland. The army is probably looking for goblins to recruit. Neiryet could be supplying Var Galaria with arms. Var Galaria wants to maintain the image of taking care of goblins. The Imperial Union has a senate. They speak the Goblin language. 
+
+
+
+
+
+
+
+
 
 ### Todo:
-- [ ] Var galaria are allies with Nieryet
+- [ ] Who to recruit in Lothal?
+- [ ] Create characters to recruit?
+- [ ] We're taking Margereta, Nicolo and Calvin to Lothal.
+- [ ] Var Galaria are allies with Nieryet
 - [ ] Read kingdoms and factions
 - [ ] anti-proficiency in exchange for minor skill
-- [ ] Identify the dagger and potions from the secret drawer.
 - [ ] Make sure Drusilla has studded leather +1 armor (AC 17)
 - [ ] Read about concordance.
-- [x] Name the temple. Wildwood
-- [x] Get a silvered rapier
-- [x] Don't take Locate Creature for level 13. You'll get it as gloom stalker magic.
+- [ ] We pledged to return to Subinity in the early spring at the latest.
+- [ ] Identify the dagger and potions from the secret drawer.
 
+#### Plans for Lothal
+- [ ] Recruit people. Welcome to ***Nice***-end
+-- [ ] Recruit paladins for Kristif
+-- [ ] Recruit scholars for Maslin
+-- [ ] Recruit farmers for Derwood
+-- [ ] Neo-satanists for Marlowe
+- [ ] Investigate Sardush, the soggy god
+- [ ] Secure Marlowe's family.
 
 
 

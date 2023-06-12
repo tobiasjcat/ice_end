@@ -191,9 +191,10 @@ proficiency bonus to learning orcish language
 -- Speak with plants (should move with you)
 
 # Misc  
-- Level 10
-- 114,915 / 120,000 xp for 12 (last updated Jan 7, 2023)
+- Level 13
+- 120,165 / 140,000 xp for 14 (last updated May 28, 2023)
 9sp / day for goblin lessons (Not active)
+
 
 # DnD Beyond changes:
 - Base were too high for standard array. Int reduced to 8 from 10
@@ -210,6 +211,16 @@ https://www.dndbeyond.com/characters/71927883
 
 Con fails 0
 Con success 0
+
+## Kingdoms and Warfare
+Ambush Captain from martial order.
+Added proficiency of stealth
+Hide as a bonus action
+Extra damage dice with advantage
+
+We are a Regent State renamed Frontier Guardians
++1 Resolve
++1 Resources
 
 
 ## Armies
