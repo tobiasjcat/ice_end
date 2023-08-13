@@ -171,3 +171,6 @@ I write this on the eve of my first day in service to Lord Metellus Strabo, Visc
 ```
 
 *A later entry gushily describes Fatelli’s first meeting with Metellus. She was quite taken by him immediately. After several more entries, they abruptly stop for nearly five years. After that point, it is clear that Fatelli was transformed into a vampire, but it seems that the process was a willing one, though one that took her some time to fully realize the implications of. Nonetheless, she grew close with Metellus, and describes the two falling in love. As a vampire, she was able to learn many things, including self-defense in hand-to-hand combat (which she proved extremely adept at) and archeology.*
+
+### Wildwood
+Derwood's temple and Maslin's tower. 

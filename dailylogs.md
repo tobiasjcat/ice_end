@@ -2206,12 +2206,53 @@ Returning to Ice-end.
 
 Cliffsend is willing to do the same agreement that got us here, land for settlement, to bring others here. She wants to create for settlements here too.
 
-We talked to Dunbar about where he came from, Var Galaria. He grimaced when we mentioned it. He says Var Galaria is far from Lothal. It took months to get to Lothal. They call themselves The Imperial Union of Var Galaria. They also call themselves a republic of all goblin kinds. Goblins, hobgoblin and bugbears. Supposedly equal representation, but everyone knows hobgoblins run the show. Their army is the Imperial Legion which is here. The troops are some of the best in the world. Var Galaria is larger than Lothal in land and especially numbers. But they are distant from Sylvanos. The full legion is not here, there is always fighting back at the homeland. The army is probably looking for goblins to recruit. Neiryet could be supplying Var Galaria with arms. Var Galaria wants to maintain the image of taking care of goblins. The Imperial Union has a senate. They speak the Goblin language. 
+We talked to Dunbar about where he came from, Var Galaria. He grimaced when we mentioned it. He says Var Galaria is far from Lothal. It took months to get to Lothal. They call themselves The Imperial Union of Var Galaria. They also call themselves a republic of all goblin kinds. Goblins, hobgoblin and bugbears. Supposedly equal representation, but everyone knows hobgoblins run the show. Their army is the Imperial Legion which is here. The troops are some of the best in the world. Var Galaria is larger than Lothal in land and especially numbers. But they are distant from Sylvanos. The full legion is not here, there is always fighting back at the homeland. The army is probably looking for goblins to recruit. Neiryet could be supplying Var Galaria with arms. Var Galaria wants to maintain the image of taking care of goblins. The Imperial Union has a senate. They speak the Goblin language.
+
+<hr>
+
+We're going to try to recruit volunteers from Ice-end for support for KaraJhinzkha. Subinity is in bad shape. Going to Tolreams via teleport. To do:
+Research Sardush, the soggy god. Need to know how to kill gods.
+
+It's cold and snowy. Tolreams will be warmer but still cold.
+We increased the Communication level of our domain.
+Maslin teleported us to just outside Blackford Citadel in Tolreams, the largest city in Lothal.
+
+The guards recognized Maslin's credentials but are telling us that Magic is a little taboo. There have been protests outside the institute, or the place in the city where magic users congregate. Syr Charles Henry Whynclyff Institute of Arcana and Mysteria. The protests are against the magic users there. Magic legalization is very recent.
+
+Attendants in the Citadel help us get situated. Each of us have our own guest rooms. After we made ourselves comfortable we were able to meet Sir Chism. His office looks like a place he spends a lot of time working in. The king and Maslin's father are out hunting.
+
+Chism offers to keep the Wodehouses in the Citadel after her learns that they are in danger.
+
+He will connect us to a researcher in Grandsten University to help us. We asked for more blacksmiths. They lent us horses too.
+
+We headed to the north quarter to investigate the anti-magic protests. The institute is in a working class neighborhood. The institute is roughly cobbled together.
+
+There is a rabble of a small crowd of disorganized people. Some are chanting derogatory words. Someone walking out of the building could be in danger.
+
+Maslin wanted to help a protester fix his boat, but the boat was too badly damaged.
+
+We entered the institute. The bunch here are eclectic. The people here are mostly non-human. We get the sense that the protesters are racist against innately magical races. This is a place to learn and study magic but it seems informal. Rutgaurd the dwarf let us in. No one is charge, but you pay teachers and mentors. The weirdest thing we see here is a Dragonborn sorcerer practicing magic and Edgar sneezes snails.
+
+Rutgaurd takes us to the most wizened person here. This is a older half-elf woman tending a garden. Spectral hands tend to the garden as well as imps. Olana Fenn.
+
+The kenku here only speak in mimicry.
+
+We will have people gather in three weeks to disembark.
+
+We had dinner with Maslin's mother.
 
 
+### 26th of Uktar - 6th of Nightal
 
+We are introduced to professor Cassius Hopkins at the Grandsten University. Cassius is smart and authority. A half Dragonborn/Lizardfold. Things haven't been stolen from the archives in a very long time.
 
+Hopkins has not heard of Sardush but considers that giants could be considered gods. The elven scholars did do studies of human deities and they theorized that what the humans called gods were just very powerful creatures. Sentient powerful beings. Perhaps humans creatre their gods vs the other way around. The more people and the more powerful their belief leads to more powerful the gods. It's a symbiotic relationship.
 
+To kill a god, we may just need to slay their most zealous followers. Accumulation of a god's power is usually long term, but they can gain power more quickly with sacrifices. Blood and souls are the most potent sacrifices. More sacrifices will continue to create more angels. Gods of war may gain power through slain enemies in battle.
+
+Research into to ancient magic is forbidden/very frowned upon.
+
+<hr>
 
 
 

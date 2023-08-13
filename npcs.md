@@ -103,7 +103,6 @@ Languages: Goblin + tongues spell
 Age: elderly  
 Notes: Fuzzy brown beard. Mostly neckbeard. Hunched over with wooden staff. Honorific.  
 
-
 # Ravanna Thola  
 Race: Dwarven women   
 Occupation: Dishwasher (?) at whitemoon threads.  
